@@ -7,5 +7,21 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275063207/
 
 ## Housekeeping
 
-Join our Telegram group
+- Join our Telegram group
+- [Ongoing Ledger Wallet Attacks](https://twitter.com/TheCraael/status/1336632273962196992)
 
+## Bitcoin Core
+
+- [0.21.0 Release Candiates](https://github.com/bitcoin/bitcoin/issues/20555)
+- [sendvaddrv2 Message Timing](https://github.com/bitcoin/bitcoin/pull/20564)
+- [sendvaddrv2 Message Timing BIP change](https://github.com/bitcoin/bips/pull/1043)
+- [Dropping leading 0 in version number](https://github.com/bitcoin/bitcoin/pull/20223)
+
+## Privacy
+
+- [Testnet CoinSwap](https://twitter.com/chris_belcher_/status/1336322923800322049)
+
+## Other
+
+- [Signet faucet](https://signetfaucet.com/)
+- [Bech32m/Bech33](https://bitcoinops.org/en/newsletters/2020/12/09/#bech32-addresses-for-taproot-and-beyond)
