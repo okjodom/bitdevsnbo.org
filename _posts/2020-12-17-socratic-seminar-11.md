@@ -21,6 +21,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275063207/
 - [First Testnet CoinSwap](https://twitter.com/chris_belcher_/status/1336322923800322049)
 - [JoinMarket v0.8.0](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.8.0)
 
+## DLCs
+
+- [Mainnet Volatility Contract](https://suredbits.com/settlement-of-volatility-dlc/)
+
 ## Proposals
 
 - [New PSBT Format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018300.html)
