@@ -16,6 +16,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275063207/
 - [sendvaddrv2 Message Timing](https://github.com/bitcoin/bitcoin/pull/20564) / [BIP Change]((https://github.com/bitcoin/bips/pull/1043)) / [BTCD](https://github.com/btcsuite/btcd/issues/1661)
 - [Dropping leading 0 in version number](https://github.com/bitcoin/bitcoin/pull/20223)
 - [Bitcoin 1.0!](https://github.com/bitcoin/bitcoin/pull/20223)
+- [How to build 0.1.0](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-November/018269.html)
 
 ## Privacy
 
@@ -41,15 +42,12 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275063207/
 - [OKEX Mining Pool Flatlines](https://www.coindesk.com/okex-mining-pool-collapse-hash-power-withdrawal-suspension)
 - [geth chainsplits](https://gist.github.com/karalabe/e1891c8a99fdc16c4e60d9713c35401f)
 - [Godaddy employee hacks](https://krebsonsecurity.com/2020/11/godaddy-employees-used-in-attacks-on-multiple-cryptocurrency-services/)
-- [Bitcoin 1.0!](https://github.com/bitcoin/bitcoin/pull/20223)
 - [Shift crypto multisig post](https://shiftcrypto.ch/blog/how-nearly-all-personal-hardware-wallet-multisig-setups-are-insecure/)
 - [OFAC-compliant mining pool](https://stockhouse.com/news/press-releases/2020/10/29/dmg-s-subsidiary-blockseer-launches-bitcoin-mining-pool-focused-on-goo)
 - [Pure rust secp256k1 library](https://iqlusion.blog/k256-crate-pure-rust-projective-secp256k1-library)
-- [How to build 0.1.0](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-November/018269.html)
 
 ## Lightning
 - [Restore channels without needing backup](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002907.html) / [another](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002912.html)
-
 - [Lightning this week newsletter](https://andreneves.substack.com/p/lightning-this-week-657227)
 
 ## Optech
