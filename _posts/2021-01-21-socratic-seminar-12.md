@@ -5,6 +5,10 @@ title: "Socratic 12"
 meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 ---
 
+## Housekeeping
+
+- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
+
 ## Schnorr & Taproot
 
 - [Bech32m BIP](https://github.com/sipa/bips/blob/bip-bech32m/bip-bech32m.mediawiki)
