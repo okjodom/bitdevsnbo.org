@@ -19,6 +19,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 
 - [How does Sphinx Chat Work](https://klabo.blog/2021/03/08/how-does-sphinx-chat-work/)
 - [OkCoin deploys LN](https://blog.okcoin.com/2021/03/04/how-to-use-bitcoin-lightning-network/)
+- [An Overview of Lightning Network Implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa)
+- [Introducing The Biz podcast series, and the "crowdwall" payment scheme](https://bitcoinerrorlog.medium.com/introducing-the-biz-podcast-series-and-the-crowdwall-payment-scheme-3a17e997569)
+- [Bitcoin Startup Moon Brings the Lightning Network to All Visa E-Commerce Merchants](https://www.coindesk.com/bitcoin-moon-lightning-network-visa-e-commerce-merchants)
+- [Wallet of Satoshi hits 1M LN transactions](https://twitter.com/walletofsatoshi/status/1371271519393906688?s=20)
 
 # Taproot
 
