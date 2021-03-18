@@ -10,6 +10,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 - Beeple NFT
 - [Luke finally gets funding](https://medium.com/bull-bitcoin/bull-bitcoin-and-wasabi-wallet-award-40-000-bitcoin-development-grant-to-luke-jr-4418d03ab230)
 - [Blockstream green e2e encrypts wallet metadata](https://blockstream.com/2021/02/23/en-gain-privacy-with-the-encrypted-blob/)
+- [bitcoinpaperwallet.com has backdoor](https://privacypros.io/wallets/paper-scam-warning/)
+- [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
+- [Tether settles with NYAG](https://www.coindesk.com/ny-ags-850m-probe-of-bitfinex-tether-ends-in-an-18-5m-settlement)
+- [Square buys more btc](https://www.btctimes.com/news/square-buys-another-170m-worth-of-bitcoin)
 
 # Lightning
 
