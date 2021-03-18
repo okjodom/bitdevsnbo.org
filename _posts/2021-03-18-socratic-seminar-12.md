@@ -16,6 +16,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 - [Square buys more btc](https://www.btctimes.com/news/square-buys-another-170m-worth-of-bitcoin)
 - [seetee letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf)
 - [Ethereum miners coordinating a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
+- [Unchained raises from NYDIG](https://unchained-capital.com/blog/nydig-takes-minority-stake-in-unchained-capital/)
 
 # Lightning
 
