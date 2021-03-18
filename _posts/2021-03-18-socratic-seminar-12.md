@@ -14,6 +14,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 - [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
 - [Tether settles with NYAG](https://www.coindesk.com/ny-ags-850m-probe-of-bitfinex-tether-ends-in-an-18-5m-settlement)
 - [Square buys more btc](https://www.btctimes.com/news/square-buys-another-170m-worth-of-bitcoin)
+- [seetee letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf)
+- [Ethereum miners coordinating a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
 
 # Lightning
 
