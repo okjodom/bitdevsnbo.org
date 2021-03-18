@@ -22,11 +22,17 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 
 # Taproot
 
+- [Speedy Trail Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018583.html)
 - [Rusty](https://twitter.com/rusty_twit/status/1371925849214095362?s=20)
 - [LOT=true fork](https://github.com/BitcoinActivation/bitcoin/commits/0.21%2Btaproot)
+- [Draft PR for activation params](https://github.com/bitcoin/bitcoin/pull/21393/commits/8e2524b3942b73a161b1ed0d224630d7e3b5e1fc)
 
 # Defi
 
 - [nice "what are dlcs" post](https://medium.com/@gertjaap/discreet-log-contracts-invisible-smart-contracts-on-the-bitcoin-blockchain-cc8afbdbf0db)
+- [First multi-oracle DLC](https://suredbits.com/settlement-of-first-multi-oracle-dlc/)
 - [POC issue corporate bond on Liquid](https://www.garage.co.jp/en/pr/release/2021/02/20210226/)
 - [atomic.finance](https://atomic.finance/)
+
+# Research
+- [Covenants](https://medium.com/blockstream/cat-and-schnorr-tricks-ii-2f6ede3d7bb5)
