@@ -7,15 +7,26 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 
 # Misc
 
-- Beeple NFT
+- [Beeple NFT](https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx)
 - [Luke finally gets funding](https://medium.com/bull-bitcoin/bull-bitcoin-and-wasabi-wallet-award-40-000-bitcoin-development-grant-to-luke-jr-4418d03ab230)
 - [Blockstream green e2e encrypts wallet metadata](https://blockstream.com/2021/02/23/en-gain-privacy-with-the-encrypted-blob/)
 - [bitcoinpaperwallet.com has backdoor](https://privacypros.io/wallets/paper-scam-warning/)
-- [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
+- [Ethereum miners coordinating a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
+- [Petrodollars vs BTC](https://climatemoney.substack.com/p/carbon-cost-of-dollars)
+- [Another similar take](https://climatemoney.substack.com/p/carbon-cost-of-dollar)
+- [Kentuckey miner subsidy bill](https://apps.legislature.ky.gov/record/21RS/hb230.html)
+- [Uppercase QRs in BTCPay](https://github.com/btcpayserver/btcpayserver/pull/2181)
+- [Green mining case studies](https://braiins.com/blog/green-innovation-in-bitcoin-mining-recycling-asic-heat)
+- [Borrow L-BTC at hodlhodl](https://medium.com/hodl-hodl/traders-vs-hodlers-liquid-bitcoin-bbc405450f02)
+- [Blockfi paused withdrawals](https://twitter.com/BlockFiZac/status/1368921986009825281)
+
+# Institutions
+
 - [Tether settles with NYAG](https://www.coindesk.com/ny-ags-850m-probe-of-bitfinex-tether-ends-in-an-18-5m-settlement)
 - [Square buys more btc](https://www.btctimes.com/news/square-buys-another-170m-worth-of-bitcoin)
 - [seetee letter](https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf)
-- [Ethereum miners coordinating a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
+- [Deutsche Bank chimes in](https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000517378/The_Future_of_Payments:_Series_2_Part_III__Bitcoin.PDF?&2s7qASyuoPvJwqm+SuSEMvtzmNXBniH7Rph8A34eLs4=&&realload=~NoBqx4EAfXCMhGyQeSg179Jbr5gkhQj5xPRngT4DorTFEf0CcV5p5Xewx1lg/hr5AyuYCaYrRn/OJ/Z5eT7eQ==)
+- [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
 - [Unchained raises from NYDIG](https://unchained-capital.com/blog/nydig-takes-minority-stake-in-unchained-capital/)
 
 # Lightning
