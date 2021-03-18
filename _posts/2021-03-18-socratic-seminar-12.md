@@ -26,6 +26,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 - [Introducing The Biz podcast series, and the "crowdwall" payment scheme](https://bitcoinerrorlog.medium.com/introducing-the-biz-podcast-series-and-the-crowdwall-payment-scheme-3a17e997569)
 - [Bitcoin Startup Moon Brings the Lightning Network to All Visa E-Commerce Merchants](https://www.coindesk.com/bitcoin-moon-lightning-network-visa-e-commerce-merchants)
 - [Wallet of Satoshi hits 1M LN transactions](https://twitter.com/walletofsatoshi/status/1371271519393906688?s=20)
+# Core
+
+- [HWI docs](https://hwi.readthedocs.io/en/latest/)
+- [How to use I2P](https://bitcoin.stackexchange.com/questions/103402/how-can-i-use-bitcoin-core-with-the-anonymous-network-protocol-i2p)
 
 # Taproot
 
