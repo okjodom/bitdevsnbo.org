@@ -7,16 +7,18 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 
 # Misc
 
-- [Beeple NFT](https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx)
 - [Luke finally gets funding](https://medium.com/bull-bitcoin/bull-bitcoin-and-wasabi-wallet-award-40-000-bitcoin-development-grant-to-luke-jr-4418d03ab230)
 - [Blockstream green e2e encrypts wallet metadata](https://blockstream.com/2021/02/23/en-gain-privacy-with-the-encrypted-blob/)
 - [bitcoinpaperwallet.com has backdoor](https://privacypros.io/wallets/paper-scam-warning/)
 - [Ethereum miners coordinating a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/)
+- [Beeple NFT](https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx)
+- [Uppercase QRs in BTCPay](https://github.com/btcpayserver/btcpayserver/pull/2181)
+- [Lopp on dust attacks](https://blog.lopp.net/history-bitcoin-transaction-dust-spam-storms/)
+- [Lyn Alden had nice security modeling article](https://www.swanbitcoin.com/bitcoin-fee-based-security-modeling-lyn-alden/)
+- [Green mining case studies](https://braiins.com/blog/green-innovation-in-bitcoin-mining-recycling-asic-heat)
 - [Petrodollars vs BTC](https://climatemoney.substack.com/p/carbon-cost-of-dollars)
 - [Another similar take](https://climatemoney.substack.com/p/carbon-cost-of-dollar)
 - [Kentuckey miner subsidy bill](https://apps.legislature.ky.gov/record/21RS/hb230.html)
-- [Uppercase QRs in BTCPay](https://github.com/btcpayserver/btcpayserver/pull/2181)
-- [Green mining case studies](https://braiins.com/blog/green-innovation-in-bitcoin-mining-recycling-asic-heat)
 - [Borrow L-BTC at hodlhodl](https://medium.com/hodl-hodl/traders-vs-hodlers-liquid-bitcoin-bbc405450f02)
 - [Blockfi paused withdrawals](https://twitter.com/BlockFiZac/status/1368921986009825281)
 
@@ -48,6 +50,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/275452783
 - [Rusty](https://twitter.com/rusty_twit/status/1371925849214095362?s=20)
 - [LOT=true fork](https://github.com/BitcoinActivation/bitcoin/commits/0.21%2Btaproot)
 - [Draft PR for activation params](https://github.com/bitcoin/bitcoin/pull/21393/commits/8e2524b3942b73a161b1ed0d224630d7e3b5e1fc)
+- [Ryan + Buck](https://ryanthegentry.medium.com/a-theory-of-bitcoin-governance-13510eff42a6)
 
 # Defi
 
