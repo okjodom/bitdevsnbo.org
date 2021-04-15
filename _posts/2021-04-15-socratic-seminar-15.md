@@ -7,6 +7,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/276251557/
 
 # Taproot
 
+- [Coin Flip](https://www.coindesk.com/final-taproot-activation-specifics-chosen-bitcoin-blockchain-coin-toss)
 - [SPEEDY TRIAL MERGED](https://github.com/bitcoin/bitcoin/pull/21686)
 - [Greg Maxwell on activation](https://www.reddit.com/r/Bitcoin/comments/mr792g/luke_dashjr_on_twitter_community_came_to/gukq9r9/)
 
