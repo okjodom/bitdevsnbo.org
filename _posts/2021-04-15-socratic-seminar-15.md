@@ -21,6 +21,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/276251557/
 - [Lightning Node Performance](https://bottlepay.com/blog/bitcoin-lightning-node-performance/), [Other Results](https://bottlepay.com/blog/bitcoin-lightning-node-performance/)
 - [LND adds AMP](https://github.com/lightningnetwork/lnd/pull/5108)
 - [Dual funded channel webinar](https://www.youtube.com/watch?v=i_GxmNZjwhk&t=5s)
+- [Probabilistic modeling the uncertainty of channel balance](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-March/002984.html)
+- [31 Lightning wallets](https://lightningnetworkstores.com/wallets)
 
 # Security
 
