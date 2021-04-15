@@ -28,4 +28,4 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/276251557/
 # Misc
 
 - [Tesla using BTCPayServer](https://twitter.com/BtcpayServer/status/1376962118151471105?s=20)
-- [Bitcoin in top 10 M1](https://www.lopp.net/m1/rank.html)
+- [Bitcoin in top 6 M1](https://twitter.com/crypto_voices/status/1360218745222934528)
