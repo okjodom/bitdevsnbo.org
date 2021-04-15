@@ -12,12 +12,14 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/276251557/
 - [Greg Maxwell on activation](https://www.reddit.com/r/Bitcoin/comments/mr792g/luke_dashjr_on_twitter_community_came_to/gukq9r9/)
 - [UASF client](https://github.com/BitcoinActivation/bitcoin/releases/tag/v0.21.0%2Btaproot0.1rc1)
 - [aj townes blog post](http://www.erisian.com.au/wordpress/2021/03/14/fixing-uasf)
+- [core wallet support](https://github.com/bitcoin/bitcoin/pull/21365)
 
 # Bitcoin Core
 
 - [Jeremy Rubin opens BIP 119 impl](https://github.com/bitcoin/bitcoin/pull/21702)
 - [Sapio docs](https://learn.sapio-lang.org/ch01-03-hello-world.html)
 - [PSBT v2 PR](https://github.com/bitcoin/bitcoin/pull/21283)
+- [Android build](https://github.com/bitcoin/bitcoin/pull/17227)
 
 # Lightning
 
