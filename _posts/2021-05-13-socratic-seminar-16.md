@@ -6,3 +6,5 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 ---
 
 - [Bisq single tx scheme](https://github.com/bisq-network/proposals/issues/279)
+
+- [Taproot Signaling Progress](https://taproot.watch)
