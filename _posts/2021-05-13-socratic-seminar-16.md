@@ -41,6 +41,14 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 
 - [Lightning Terminal Web](https://twitter.com/lightning/status/1392153874404872194?s=20)
 
+- [Bitrefill Lightning Usage](https://twitter.com/bitrefill/status/1384191363042865153?s=20)
+
+- [Impervious dVPN](https://www.impervious.ai/blog/impervious_api/)
+
+- [Wordpress Lightning Paywall Plugin](https://lightning-paywall.coincharge.io/)
+
+- [BTC Sessions Lightning Node Tutorial](https://twitter.com/BTCsessions/status/1392662345587904514?s=20)
+
 
 # Misc
 
