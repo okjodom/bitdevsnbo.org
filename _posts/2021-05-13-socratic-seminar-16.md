@@ -44,6 +44,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 
 # Misc
 
+- [MuSig 2 implementation](https://github.com/ElementsProject/secp256k1-zkp/pull/131)
+
 - [Bisq single tx scheme](https://github.com/bisq-network/proposals/issues/279)
 
 - [Coinbase Threshold Signing](https://blog.coinbase.com/production-threshold-signing-service-b16017c09661)
