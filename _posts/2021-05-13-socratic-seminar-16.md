@@ -4,29 +4,30 @@ type: socratic
 title: "Socratic 16"
 meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 ---
+
+# Announcements
+
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 
 - [PlebParty in Miami](https://www.thebitcoinpath.com/events/pleb-party/)
 
-- [Bisq single tx scheme](https://github.com/bisq-network/proposals/issues/279)
+# Mining
 
 - [Taproot Signaling Progress](https://taproot.watch)
 
 - [Largest Difficulty Adjustment in 7 years](https://bitcoinmagazine.com/technical/bitcoin-mining-difficulty-at-highest-ever)
 
-- [Proposed new BIP editor: Kalle Alm](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-April/018835.html)
-
-- [L2s Onchain Support IRC Workshop](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-April/003002.html)
-
 - [OFAC Compliant mining pool](https://www.coindesk.com/marathon-miners-censor-bitcoin-transactions-ofac-compliant)
 
 - [Mining pool observer](https://miningpool.observer/)
+
+# Mailing List
 
 - [BIP 125 CVE](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html)
 
 - [L2s Onchain Support IRC Workshop](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018925.html)
 
-- [Coinbase Threshold Signing](https://blog.coinbase.com/production-threshold-signing-service-b16017c09661)
+- [Proposed new BIP editor: Kalle Alm](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-April/018835.html)
 
 # Lightning
 
@@ -42,5 +43,9 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 
 
 # Misc
+
+- [Bisq single tx scheme](https://github.com/bisq-network/proposals/issues/279)
+
+- [Coinbase Threshold Signing](https://blog.coinbase.com/production-threshold-signing-service-b16017c09661)
 
 - [Open Sats soft launch](https://opensats.org/)
