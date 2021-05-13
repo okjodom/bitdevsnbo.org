@@ -24,6 +24,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 
 - [BIP 125 CVE](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html)
 
+- [L2s Onchain Support IRC Workshop](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018925.html)
+
+- [Coinbase Threshold Signing](https://blog.coinbase.com/production-threshold-signing-service-b16017c09661)
+
 # Lightning
 
 - [Splicing draft](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-April/002999.html)
