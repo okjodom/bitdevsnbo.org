@@ -4,6 +4,7 @@ type: socratic
 title: "Socratic 16"
 meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/277330471/
 ---
+- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 
 - [PlebParty in Miami](https://www.thebitcoinpath.com/events/pleb-party/)
 
