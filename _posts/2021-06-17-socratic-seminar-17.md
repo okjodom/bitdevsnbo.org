@@ -20,6 +20,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 - [Taproot history by sipa](https://twitter.com/pwuille/status/1403725170993336322?s=20)
 
+- [Bitcoin Core imports taproot descriptors](https://github.com/bitcoin/bitcoin/issues/22051)
+
 - [SIGHASH_ANYPREVOUT BIP PR](https://github.com/bitcoin/bips/pull/943)
 
 - [Dropping tor v2 service support](https://github.com/bitcoin/bitcoin/pull/22050)
@@ -46,3 +48,4 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 - [blind-xpub](https://github.com/mflaxman/blind-xpub)
 
+- [utreexo update](https://blog.bitmex.com/faster-blockchain-validation-with-utreexo-accumulators/)
