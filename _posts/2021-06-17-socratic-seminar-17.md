@@ -31,3 +31,18 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 - [fix defintion of ordering of htlcs in BOLTs](https://github.com/lightningnetwork/lightning-rfc/pull/872)
 
 - [IRC move to libera.chat](https://twitter.com/achow101/status/1397408341404626944?s=20)
+
+- [Upgrade your nodes](https://twitter.com/LukeDashjr/status/1403775583037820928)
+
+- [Blockchain.com supports native segwit](https://github.com/blockchain/blockchain-wallet-v4-frontend/releases/tag/v4.49.1)
+
+- [Bitcoin core transaction RPC calls allow external utxos](https://github.com/bitcoin/bitcoin/pull/21359)
+
+- [bitcoin-qt can't show arbitrary messages from URIs](https://github.com/bitcoin-core/gui/pull/280)
+
+- [Attempt to standardize multisig derivation paths](https://github.com/bitcoin/bips/blob/master/bip-0087.mediawiki)
+
+- [Derivation path templates](https://github.com/bitcoin/bips/blob/master/bip-0088.mediawiki)
+
+- [blind-xpub](https://github.com/mflaxman/blind-xpub)
+
