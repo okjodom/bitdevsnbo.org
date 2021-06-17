@@ -9,6 +9,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 
+- [pleb.fi](https://pleb.fi/austin/)
+
 - [LDK sample node](https://github.com/lightningdevkit/ldk-sample)
 
 - [HB4474 Passed](https://twitter.com/mecee/status/1404068513799622660?s=20)
@@ -60,6 +62,14 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 - [unchained raised money](https://twitter.com/josephkelly/status/1400797904835653635)
 
+- mempool has repeatedly emptied recently
+
+- [repo market blew up last night](https://twitter.com/zerohedge/status/1405575475041386514)
+
+- [IBD speedup with libsecp update](https://github.com/bitcoin/bitcoin/pull/21573#issuecomment-844294096)
+
+- [chaincode seminars](https://twitter.com/ChaincodeLabs/status/1397977778574839808?s=20)
+
 ## Mining
 
 - "mining council"
@@ -73,6 +83,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 
 - discussion about full node licenses? raspiblitz totally FOSS, umbrel can't be modified ...
+    - nice story about how ability to tinker with code is important https://twitter.com/_pretyflaco/status/1404784421526544386
 
 ## Apps
 
