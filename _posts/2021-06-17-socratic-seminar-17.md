@@ -51,12 +51,37 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
  
 - [Azure hosted blockchain shuts down](https://docs.microsoft.com/en-us/azure/blockchain/service/migration-guide)
 
+- [bitcoin problems](https://bitcoin-problems.github.io)
+
+- [roasbeef running sapio](https://twitter.com/roasbeef/status/1404830138953388043?s=20)
+    - mention we're planning a workshop with jeremy
+
+- [fake ledgers getting mailed out](https://www.bleepingcomputer.com/news/cryptocurrency/criminals-are-mailing-altered-ledger-devices-to-steal-cryptocurrency/)
+
+- [unchained raised money](https://twitter.com/josephkelly/status/1400797904835653635)
+
 ## Mining
 
 - "mining council"
+    - maybe mention brock pierce leading delegation to el salvador here as well. 
 
 - [Mara throws in towel](https://twitter.com/HedgeyeREITs/status/1399400186502340610)
 
 - [miners getting kicked out of xinjiang](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
 
 - [Improved block construction](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
+
+
+- discussion about full node licenses? raspiblitz totally FOSS, umbrel can't be modified ...
+
+## Apps
+
+- [N2N2 launched](https://n2n2.co/)
+- Galoy / bitcoin beach wallet? Does this guy come to the meetup or not?
+
+## El Salvadore
+
+- [Bitcoin is legal tender](https://bitcoinmagazine.com/business/el-salvador-to-declare-bitcoin-as-legal-tender)
+- could be interesting to pull some stats about lack of banking, remittence size and cost, etc
+- [World bank doesn't want to help](https://bitcoinmagazine.com/business/world-bank-nixes-el-salvador-bitcoin-help)
+- [IMF doesn't either](https://www.fastcompany.com/90645975/international-monetary-fund-warns-of-risks-after-el-salvador-adopts-bitcoin-as-legal-tender)
