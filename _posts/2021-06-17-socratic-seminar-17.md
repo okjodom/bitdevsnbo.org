@@ -13,6 +13,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 
 - [LDK sample node](https://github.com/lightningdevkit/ldk-sample)
 
+- [LND v0.13.0](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)
+
 - [HB4474 Passed](https://twitter.com/mecee/status/1404068513799622660?s=20)
 
 - [Texas state chartered banks can custody bitcoin](https://bitcoinmagazine.com/business/texas-state-chartered-banks-can-custody-bitcoin)
@@ -22,6 +24,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 - [Taproot history by sipa](https://twitter.com/pwuille/status/1403725170993336322?s=20)
 
 - [Bitcoin Core imports taproot descriptors](https://github.com/bitcoin/bitcoin/issues/22051)
+
+- [Taproot Wallet Support in Core](https://github.com/bitcoin/bitcoin/pull/21365)
 
 - [SIGHASH_ANYPREVOUT BIP PR](https://github.com/bitcoin/bips/pull/943)
 
