@@ -49,3 +49,5 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 - [blind-xpub](https://github.com/mflaxman/blind-xpub)
 
 - [utreexo update](https://blog.bitmex.com/faster-blockchain-validation-with-utreexo-accumulators/)
+ 
+- [Azure hosted blockchain shuts down](https://docs.microsoft.com/en-us/azure/blockchain/service/migration-guide)
