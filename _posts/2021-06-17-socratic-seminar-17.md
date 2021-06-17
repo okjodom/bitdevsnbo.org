@@ -10,11 +10,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 
 - [LDK sample node](https://github.com/lightningdevkit/ldk-sample)
-- [Mara throws in towel](https://twitter.com/HedgeyeREITs/status/1399400186502340610)
-
-- [Improved block construction](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
 
 - [HB4474 Passed](https://twitter.com/mecee/status/1404068513799622660?s=20)
+
+- [Texas state chartered banks can custody bitcoin](https://bitcoinmagazine.com/business/texas-state-chartered-banks-can-custody-bitcoin)
 
 - [Taproot locked in](https://twitter.com/achow101/status/1404168731673219072)
 
@@ -51,3 +50,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 - [utreexo update](https://blog.bitmex.com/faster-blockchain-validation-with-utreexo-accumulators/)
  
 - [Azure hosted blockchain shuts down](https://docs.microsoft.com/en-us/azure/blockchain/service/migration-guide)
+
+## Mining
+
+- "mining council"
+
+- [Mara throws in towel](https://twitter.com/HedgeyeREITs/status/1399400186502340610)
+
+- [miners getting kicked out of xinjiang](https://www.theblockcrypto.com/post/107707/xinjiang-bitcoin-miner-shut-crackdown-china)
+
+- [Improved block construction](https://gist.github.com/Xekyo/5cb413fe9f26dbce57abfd344ebbfaf2#file-candidate-set-based-block-building-md)
