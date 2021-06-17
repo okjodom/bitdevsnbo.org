@@ -8,17 +8,11 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 # Announcements
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
-
 - [pleb.fi](https://pleb.fi/austin/)
-
 - [LND v0.13.0](https://lightning.engineering/posts/2021-06-17-lnd-v0.13/)
-
 - [Lightning Ubiquity at Bitcoin 2021](https://lightninglabs.substack.com/p/lightning-ubiquity-and-the-united)
-
 - [Twitter integrating LN "only a matter of time"](https://twitter.com/Xentagz/status/1403306032315744260?s=19)
-
 - [805805 Lightning services](https://twitter.com/alexbosworth/status/1400155547446308864?s=20) 
-
 - [LDK sample node](https://github.com/lightningdevkit/ldk-sample)
 
 - [HB4474 Passed](https://twitter.com/mecee/status/1404068513799622660?s=20)
