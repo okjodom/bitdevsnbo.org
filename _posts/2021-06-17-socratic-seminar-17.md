@@ -92,7 +92,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027499/
 ## Apps
 
 - [N2N2 launched](https://n2n2.co/)
-- Galoy / bitcoin beach wallet? Does this guy come to the meetup or not?
+- [bitcoin beach wallet](https://twitter.com/nicolasburtey/status/1404018685895970822?s=20)
 
 ## El Salvadore
 
