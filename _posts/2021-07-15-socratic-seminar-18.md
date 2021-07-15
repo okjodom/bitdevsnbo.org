@@ -31,12 +31,14 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027510/
 - [Full RBF in v24.0](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019074.html)
 - [Randomize message processing peer order](https://github.com/bitcoin/bitcoin/pull/22144)
 - [Schnorr Sign non-32 byte values](https://bitcoinops.org/en/newsletters/2021/07/14/#libsecp256k1-844)
+- [Quantum Secure with OP_CAT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019233.html)
 
 ## Covenants
 
 - [Jeremy Rubin Blog](https://rubin.io/blog/2021/07/02/covenants/)
 - [5 byte CheckSigFromStack](https://rubin.io/blog/2021/07/02/signing-5-bytes/)
 - [CheckSigFromStack Proposal](https://bitcoinops.org/en/newsletters/2021/07/14/#request-for-op-checksigfromstack-design-suggestions)
+- [Unlimited Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019203.html)
 
 # BIPs
 
@@ -48,6 +50,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027510/
 ## Misc
 
 - [Plan B Passport in the news](https://www.foxbusiness.com/technology/company-offers-passport-to-potentially-avoid-paying-tax-on-cryptocurrencies)
+- [Argentina Bill](https://blog.river.com/argentina-introduces-a-bill-for-cryptocurrency-denominated-salaries/)
+- [Paraguay Bill](https://bitcoinmagazine.com/business/paraguays-proposed-bitcoin-bill)
 - [Bitmex Funding Grant](https://blog.bitmex.com/open-source-developer-grant-programme-re-opening/)
 - [Jon Atack funded by Bitcoin Racing team](https://twitter.com/ln_strike/status/1409938668890968066)
 - [Wasabi DDoS Attack](https://blog.wasabiwallet.io/wve-006-ddos-attack-report/)
