@@ -9,13 +9,17 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027510/
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [pleb.fi](https://pleb.fi/austin/)
+- [Impervious.ai Hack for Freedom](https://www.impervious.ai/hack4freedom/)
 - [Largest Difficulty Adjustment Ever](https://www.coindesk.com/bitcoin-mining-difficulty-largest-drop-in-history)
 
 ## Lightning
 
+- [LN public capacity up 300 BTC in last 30 days](https://twitter.com/VetleLunde/status/1414935599321124864)
 - [BlueWallet + LDK](https://twitter.com/bluewalletio/status/1414908931902779394)
 - [Liquidity Ads](https://github.com/lightningnetwork/lightning-rfc/pull/878)
+- [Turbo Channels Spec](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003074.html)
 - [Ryan on bLIPs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003086.html)
+- [Add Postgres to LND](https://github.com/lightningnetwork/lnd/pull/5366)
 - [10 BTC Channel](https://1ml.com/channel/758878527538855937)
 - [WUMBO HTLCs](https://github.com/lightningnetwork/lightning-rfc/pull/877)
 - [stacker.news](https://stacker.news/)
