@@ -53,6 +53,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027510/
 
 ## Misc
 
+- [Square announcement](https://twitter.com/jack/status/1415765941904941061)
 - [Plan B Passport in the news](https://www.foxbusiness.com/technology/company-offers-passport-to-potentially-avoid-paying-tax-on-cryptocurrencies)
 - [Argentina Bill](https://blog.river.com/argentina-introduces-a-bill-for-cryptocurrency-denominated-salaries/)
 - [Paraguay Bill](https://bitcoinmagazine.com/business/paraguays-proposed-bitcoin-bill)
