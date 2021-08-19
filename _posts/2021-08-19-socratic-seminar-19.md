@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 
 ## Lightning
 
+- [Get AMPed](https://docs.lightning.engineering/lightning-network-tools/lnd/amp)
 - [ImperviousAi with AMP](https://twitter.com/cycryptr/status/1425962921755021312?s=21)
 - [Redphone](https://twitter.com/citlayik/status/1424846343734915121)
 - [Liquidity Ads in the wild](https://twitter.com/niftynei/status/1425950605667934216)
