@@ -37,6 +37,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [Performance improvements in eclair](https://github.com/ACINQ/eclair/pull/1871)
 - [WASM + LND](https://twitter.com/roasbeef/status/1422354952186302465)
 - [Greenlight by Blockstream](https://blockstream.com/2021/07/21/en-greenlight-by-blockstream-lightning-made-easy/)
+- [Liquidity Ads](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f)
 - [Zero Base Fee](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html)
 - [bLIP update](https://github.com/lightningnetwork/lightning-rfc/pull/884#issuecomment-898577058)
 - [Bitnob and Strike](https://twitter.com/jackmallers/status/1428429890957848591)
