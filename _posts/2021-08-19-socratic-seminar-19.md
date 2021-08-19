@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [BOLT 12 spec](https://bolt12.org/)
 - [Performance improvements in eclair](https://github.com/ACINQ/eclair/pull/1871)
 - [WASM + LND](https://twitter.com/roasbeef/status/1422354952186302465)
+- [Greenlight by Blockstream](https://blockstream.com/2021/07/21/en-greenlight-by-blockstream-lightning-made-easy/)
 
 ## DLCs
 
