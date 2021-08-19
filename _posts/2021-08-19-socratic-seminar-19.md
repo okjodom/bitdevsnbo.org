@@ -11,9 +11,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [pleb.fi](https://pleb.fi/austin/)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
 
+## News
+- [Infrastructure Bill](https://bitcoinmagazine.com/business/senators-speak-on-power-of-bitcoin)
+
 ## Research
 
 - [Universal Sighashes](https://medium.com/blockstream/simplicity-taproot-and-universal-sighashes-18be8647b3bd)
+- [sapio](https://github.com/sapio-lang/sapio)
 
 ## Bitcoin Core
 
@@ -31,6 +35,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [Performance improvements in eclair](https://github.com/ACINQ/eclair/pull/1871)
 - [WASM + LND](https://twitter.com/roasbeef/status/1422354952186302465)
 - [Greenlight by Blockstream](https://blockstream.com/2021/07/21/en-greenlight-by-blockstream-lightning-made-easy/)
+- [Zero Base Fee](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html)
 
 ## DLCs
 
