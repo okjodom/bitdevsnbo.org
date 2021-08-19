@@ -20,7 +20,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [Removing the dust limit](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-August/019307.html)
 - [Release process now uses guix](https://github.com/bitcoin-core/guix.sigs)
 - [BIP 125 vuln/bug fix](https://github.com/bitcoin/bitcoin/pull/22698)
-- [43% of nodes validate Taproot](https://twitter.com/taproot_signal/status/1427631303411834900)
+- [43% of nodes validate Taproot](https://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html)
 
 ## Lightning
 
