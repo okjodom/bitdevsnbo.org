@@ -56,6 +56,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 
 ## Misc
 
+- [Roasbeef plz explain](https://twitter.com/roasbeef/status/1428072667358191617)
 - [Unusual tx](https://bitcoin.stackexchange.com/questions/107603/what-is-this-unusual-transaction-in-the-bitcoin-blockchain)
 - [Spending it](https://b10c.me/blog/007-spending-p2tr-pre-activation/?tw)
 - [Proovst gets funding from bitmex](https://twitter.com/BitMEXResearch/status/1423199968387608585)
