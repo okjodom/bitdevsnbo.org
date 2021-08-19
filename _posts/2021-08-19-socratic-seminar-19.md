@@ -9,6 +9,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [pleb.fi](https://pleb.fi/austin/)
+- [Get Zion](https://bitcoinmagazine.com/business/zion-social-media-on-lightning-network)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
 
 ## News
@@ -36,6 +37,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - [WASM + LND](https://twitter.com/roasbeef/status/1422354952186302465)
 - [Greenlight by Blockstream](https://blockstream.com/2021/07/21/en-greenlight-by-blockstream-lightning-made-easy/)
 - [Zero Base Fee](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html)
+- [bLIP update](https://github.com/lightningnetwork/lightning-rfc/pull/884#issuecomment-898577058)
+- [Bitnob and Strike](https://twitter.com/jackmallers/status/1428429890957848591)
+- [Lightning Addresses](https://twitter.com/andreneves/status/1425651740502892550)
+- [Lightning Liquidity Management Guide](https://twitter.com/lopp/status/1424027831571451909)
 
 ## DLCs
 
