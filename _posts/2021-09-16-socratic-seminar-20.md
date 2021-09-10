@@ -48,3 +48,4 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 
 - [Unusual tx](https://bitcoin.stackexchange.com/questions/107603/what-is-this-unusual-transaction-in-the-bitcoin-blockchain)
 - [Spending it](https://b10c.me/blog/007-spending-p2tr-pre-activation/?tw)
+- [NFC Coldcard](https://twitter.com/nvk/status/1436347560042586114?s=20)
