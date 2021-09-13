@@ -27,6 +27,11 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 - [LND adds easy batched channel opens](https://github.com/lightningnetwork/lnd/pull/5356)
 - [LND hybrid connectivity](https://github.com/lightningnetwork/lnd/pull/5410)
 - [Block header in ping message](https://github.com/lightningnetwork/lnd/pull/5621)
+- [Lightning MEV](https://chainfail.substack.com/p/lightning-mev)
+- [Bull Bitcoin adds lightning](https://bitcoinmagazine.com/business/bull-bitcoin-exchange-to-integrate-lightning-network)
+- [Twitter beta tests lightning tipping](https://bitcoinmagazine.com/business/twitter-beta-testing-bitcoin-lightning-tipping-service)
+- [Impervious lightning hackathon results](https://twitter.com/ImperviousAi/status/1428857277256142851)
+- [Pleb.fi hackathon results](https://twitter.com/JeremyRubin/status/1429624590255415299?s=20)
 
 ## DLCs
 
@@ -38,11 +43,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 
 - [TAPLEAF_UPDATE_VERIFY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html)
 - [Andrew Chow on reproducible builds](https://twitter.com/achow101/status/1433944378385575941)
+- [Eltoo with Anyprevout and Taproot](https://twitter.com/remyers_/status/1431235249720209408)
 
 ## Privacy
 
 - [Joinmarket releases fidelity bonds](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
 - [Joinmarket order book over lightning gossip](https://twitter.com/openoms/status/1432428728219471872)
+- [Camouflage: list of open bitcoin privacy issues](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-August/019367.html)
 
 ## Misc
 
