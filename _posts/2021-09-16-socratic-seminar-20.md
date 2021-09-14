@@ -9,18 +9,24 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
+- [Pleb.fi hackathon results](https://twitter.com/JeremyRubin/status/1429624590255415299?s=20)
+- [Impervious lightning hackathon results](https://twitter.com/ImperviousAi/status/1428857277256142851)
 
 ## News
+
 - [El Salvador legal tender](https://nypost.com/2021/09/07/el-salvador-officially-adopts-bitcoin-as-legal-tender/)
 - [El Salvador buys bitcoin](https://bitcoinmagazine.com/business/president-bukele-bought-bitcoin-dip-el-salvador)
 - [Western Union rekt](https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html)
 - [Ukraine "legalizes" bitcoin](https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html)
+- [HRF grants](https://twitter.com/gladstein/status/1437796217967239174)
 
 ## Bitcoin Core
 
 - [v22.0 tagged/released](https://github.com/bitcoin/bitcoin/releases/tag/v22.0)
+- [New release process](https://github.com/bitcoin/bitcoin/issues/22634)
 - [Potential bug with signing](https://github.com/bitcoin/bitcoin/issues/22435)
 - [Was not discouraging unknown nSequence with CSV](https://github.com/bitcoin/bitcoin/pull/22871)
+- [Waste metric coin selection](https://github.com/bitcoin/bitcoin/pull/22009)
 
 ## Lightning
 
@@ -30,8 +36,6 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 - [Lightning MEV](https://chainfail.substack.com/p/lightning-mev)
 - [Bull Bitcoin adds lightning](https://bitcoinmagazine.com/business/bull-bitcoin-exchange-to-integrate-lightning-network)
 - [Twitter beta tests lightning tipping](https://bitcoinmagazine.com/business/twitter-beta-testing-bitcoin-lightning-tipping-service)
-- [Impervious lightning hackathon results](https://twitter.com/ImperviousAi/status/1428857277256142851)
-- [Pleb.fi hackathon results](https://twitter.com/JeremyRubin/status/1429624590255415299?s=20)
 
 ## DLCs
 
