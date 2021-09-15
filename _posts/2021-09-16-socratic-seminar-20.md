@@ -54,6 +54,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 - [Joinmarket releases fidelity bonds](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
 - [Joinmarket order book over lightning gossip](https://twitter.com/openoms/status/1432428728219471872)
 - [Camouflage: list of open bitcoin privacy issues](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-August/019367.html)
+- [WabiSabi on testnet](https://twitter.com/nopara73/status/1438182317588090886)
 
 ## Misc
 
