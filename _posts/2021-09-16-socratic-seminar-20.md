@@ -30,12 +30,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472321/
 
 ## Lightning
 
+- [Bull Bitcoin adds lightning](https://bitcoinmagazine.com/business/bull-bitcoin-exchange-to-integrate-lightning-network)
+- [Paxful adds lightning](https://paxful.com/blog/lighting-network-integration/)
+- [Twitter beta tests lightning tipping](https://bitcoinmagazine.com/business/twitter-beta-testing-bitcoin-lightning-tipping-service)
 - [LND adds easy batched channel opens](https://github.com/lightningnetwork/lnd/pull/5356)
 - [LND hybrid connectivity](https://github.com/lightningnetwork/lnd/pull/5410)
 - [Block header in ping message](https://github.com/lightningnetwork/lnd/pull/5621)
 - [Lightning MEV](https://chainfail.substack.com/p/lightning-mev)
-- [Bull Bitcoin adds lightning](https://bitcoinmagazine.com/business/bull-bitcoin-exchange-to-integrate-lightning-network)
-- [Twitter beta tests lightning tipping](https://bitcoinmagazine.com/business/twitter-beta-testing-bitcoin-lightning-tipping-service)
 
 ## DLCs
 
