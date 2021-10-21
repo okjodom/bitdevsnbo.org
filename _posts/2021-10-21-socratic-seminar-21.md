@@ -9,6 +9,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472337/
 
 - Rules: No pictures, what happens at bitdevs stays at bitdevs
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
+- [hoseki.app](https://twitter.com/samabbassi/status/1448673625087827973?s=20)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
 
 ## News
