@@ -23,6 +23,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472337/
 - [Package mempool accept and package RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html)
 - [Ancestor score](https://github.com/bitcoin/bitcoin/pull/23121)
 - [CJDNS support](https://github.com/bitcoin/bitcoin/pull/23077)
+- [Jonas Schnelli stepping down :(](https://twitter.com/_jonasschnelli_/status/1451268520159875080?s=20)
 
 ## Lightning
 
@@ -55,5 +56,6 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472337/
 ## Misc
 
 - [First Country CBDC?](https://twitter.com/pesa_africa/status/1442753765019369475)
+- [Facebook Novi](https://twitter.com/novi/status/1450447507385950220?s=20)
 - [Seed Xor](https://twitter.com/nk1tz/status/1447328171334963201?s=20)
 - [Funding alternative implementations](https://twitter.com/Narodism/status/1445335283533242370?s=20)
