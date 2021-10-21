@@ -31,6 +31,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472337/
 - [Lightning Research Publication - The Bitcoin Layer](https://twitter.com/timevalueofbtc/status/1437731966443417607)
 - [Twitter tipping for the plebs](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone)
 - [Development stack for building sphinx bots](https://github.com/stakwork/sphinx-stack)
+- [Custom lightning protocol messages coming to lnd 0.14](https://twitter.com/joostjgr/status/1450424526546821120?s=20)
 - [Chivo usage go up](https://twitter.com/nayibbukele/status/1442533230540886019?s=20)
 
 ## DLCs
