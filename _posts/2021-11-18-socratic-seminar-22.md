@@ -17,7 +17,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 ## Activation [709632](https://mempool.space/block/0000000000000000000687bca986194dc2c1f949318629b44bb54ec0a94d8244)
 
 - Tracking Activation: [1st Transactions](https://twitter.com/murchandamus/status/14597604827016888380), [Scriptpath spend](https://twitter.com/murchandamus/status/1459760561177219073?s=20), [sweet vanity addresses](https://twitter.com/pwuille/status/1459778731548057603?s=12), [2-of-2 scriptpath spend](https://twitter.com/murchandamus/status/1459769394909831172?s=20)
-- [Timeline and thank yous]([https://bitcoinops.org/en/newsletters/2021/11/10/](https://bitcoinops.org/en/newsletters/2021/11/10/)
+- [Timeline and thank yous](https://bitcoinops.org/en/newsletters/2021/11/10/)
 - [Bech32m Vanity Address Generator](https://github.com/achow101/rust-vanitygen)
 
 ## What's it mean?
