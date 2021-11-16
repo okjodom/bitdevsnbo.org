@@ -19,6 +19,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 - Tracking Activation: [1st Transactions](https://twitter.com/murchandamus/status/14597604827016888380), [Scriptpath spend](https://twitter.com/murchandamus/status/1459760561177219073?s=20), [sweet vanity addresses](https://twitter.com/pwuille/status/1459778731548057603?s=12), [2-of-2 scriptpath spend](https://twitter.com/murchandamus/status/1459769394909831172?s=20)
 - [Timeline and thank yous](https://bitcoinops.org/en/newsletters/2021/11/10/)
 - [Bech32m Vanity Address Generator](https://github.com/achow101/rust-vanitygen)
+- [Some miners not enforcing](https://twitter.com/muunwallet/status/1460393861621202952?s=12)
 
 ## What's it mean?
 
@@ -30,6 +31,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 
 ## What now?
 
+- [Test Vectors](https://github.com/bitcoin/bips/pull/1225)
 - [Bech32m Adoption](https://en.bitcoin.it/wiki/Bech32_adoption)
 - [Node support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
 - [Lightning over taproot with PTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003325.html)
@@ -46,11 +48,17 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 
 # Miscellaneous
 
+- [Blockstream sponsors minimint](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3)
 - [mako - full bitcoin implementation in C](https://github.com/chjj/mako)
 - [7% of nodes have all blocks and publicly reachable](https://twitter.com/roasbeef/status/1458977490160947200?s=20)
 - [Native segwit outputs increase to 34%](https://twitter.com/murchandamus/status/1452731827525988360)
 - [Double hashing in bitcoin](https://bitcoin.stackexchange.com/questions/110065/checksum-sha256sha256prefixdata-why-double-hashing)
 - [Turing Machines on Bitcoin](https://medium.com/coinmonks/turing-machine-on-bitcoin-7f0ebe0d52b1)
+- [Umbrel vulnerability](https://twitter.com/getumbrel/status/1460245730971451392)
+
+# Bitcoin Core
+
+- [1st steps to erlay](https://github.com/bitcoin/bitcoin/pull/23114)
 
 # Lightning
 
@@ -59,6 +67,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 - [lnd- remote signing](https://github.com/guggero/lnd/blob/d43854aa34ca0c2d0dfa12b06f299def39b512fb/docs/remote-signing.md)
 - [Voltage integrates Lightning Pool](https://blog.voltage.cloud/introducing-flow/)
 - [Removing lnd's source code from lightning specs repo](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003337.html)
+- [PeerSwap](https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf)
 
 # DLCs
 
