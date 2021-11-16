@@ -5,12 +5,20 @@ title: "Socratic 22"
 meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 ---
 
+<<<<<<< HEAD
 # _The Taproot Activation Edition..._
+=======
+# The Taproot Activation Edition...
+>>>>>>> 7496b38e5de20a9db278d238851128ac5a42deff
 
 # Links
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
+<<<<<<< HEAD
 - [Bitcoiner jobs(https://bitcoinerjobs.co/)
+=======
+- [Everyone is hiring right now](https://bitcoinerjobs.co/)
+>>>>>>> 7496b38e5de20a9db278d238851128ac5a42deff
 
 # Taproot
 
