@@ -11,6 +11,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [Bitcoiner jobs](https://bitcoinerjobs.co/)
+- [Houston Hackathon in December](https://twitter.com/niftynei/status/1460966899609747466?s=20)
 
 # Taproot
 
