@@ -65,6 +65,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 # Lightning
 
 - [LN Summit 2021](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003336.html)
+- [Lnd v0.14.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.0-beta)
 - [lnd - Full re-use of static AMP invoices](https://github.com/lightningnetwork/lnd/pull/5803)
 - [lnd- remote signing](https://github.com/guggero/lnd/blob/d43854aa34ca0c2d0dfa12b06f299def39b512fb/docs/remote-signing.md)
 - [Voltage integrates Lightning Pool](https://blog.voltage.cloud/introducing-flow/)
