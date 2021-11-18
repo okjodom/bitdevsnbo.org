@@ -20,7 +20,6 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 - Tracking Activation: [1st Transactions](https://twitter.com/murchandamus/status/14597604827016888380), [Scriptpath spend](https://twitter.com/murchandamus/status/1459760561177219073?s=20), [sweet vanity addresses](https://twitter.com/pwuille/status/1459778731548057603?s=12), [2-of-2 scriptpath spend](https://twitter.com/murchandamus/status/1459769394909831172?s=20)
 - [Timeline and thank yous](https://bitcoinops.org/en/newsletters/2021/11/10/)
 - [Bech32m Vanity Address Generator](https://github.com/achow101/rust-vanitygen)
-- [Some miners not enforcing](https://twitter.com/muunwallet/status/1460393861621202952?s=12)
 
 ## What's it mean?
 
@@ -35,6 +34,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 - [Test Vectors](https://github.com/bitcoin/bips/pull/1225)
 - [Bech32m Adoption](https://en.bitcoin.it/wiki/Bech32_adoption)
 - [Node support](http://azure.erisian.com.au/~aj/taproot/taproot.html)
+- [Some miners not enforcing](https://twitter.com/muunwallet/status/1460393861621202952?s=12)
 - [Lightning over taproot with PTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003325.html)
 - [Supporting Taproot at River](https://blog.river.com/supporting-taproot-at-river/)
 - [What's next? Desire vs. Capability](https://twitter.com/jeremyrubin/status/1460349481518465025?s=12)
