@@ -56,6 +56,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472341/
 - [Double hashing in bitcoin](https://bitcoin.stackexchange.com/questions/110065/checksum-sha256sha256prefixdata-why-double-hashing)
 - [Turing Machines on Bitcoin](https://medium.com/coinmonks/turing-machine-on-bitcoin-7f0ebe0d52b1)
 - [Umbrel vulnerability](https://twitter.com/getumbrel/status/1460245730971451392)
+- [Covenants Panel at TabConf](https://gist.github.com/JeremyRubin/2d69841755cf048f0c45bef8edf63b4c)
 
 # Bitcoin Core
 
