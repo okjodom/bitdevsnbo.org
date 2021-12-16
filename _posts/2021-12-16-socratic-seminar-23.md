@@ -31,6 +31,9 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472351/
 - [PeerSwap](https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf)
 - [lnd - Full re-use of static AMP invoices](https://github.com/lightningnetwork/lnd/pull/5803)
 - [lnd - remote signing](https://github.com/guggero/lnd/blob/d43854aa34ca0c2d0dfa12b06f299def39b512fb/docs/remote-signing.md)
+- [Lightning Node Connect](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
+- [Mastering Lightning Available](https://twitter.com/aantonop/status/1467976425827414025?s=20)
+- [The Lightning Lab](https://lightninglabs.substack.com/p/lightning-lights-up-latam-the-el)
 
 ## DLCs
 
