@@ -26,20 +26,25 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472351/
 - [On why mining pools weren't including P2TR spends](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-November/019608.html)
 
 
-## Lightning
+## Lightning Announcements
+
+- [Lightning Escrow](https://twitter.com/LightningEscrow/status/1470856185704325135)
+- [Impervious Browser Early Access](https://twitter.com/ImperviousAi/status/1463304236528062469?s=20)
+- [Lightning Node Connect](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
+- [Mastering Lightning Available](https://twitter.com/aantonop/status/1467976425827414025?s=20)
+- [The Lightning Lab](https://lightninglabs.substack.com/p/lightning-lights-up-latam-the-el)
+- [Lightning Loop new version](https://lightning.engineering/posts/2021-12-16-pool-prod-update/)
+
+## Lightning Tech
 
 - [LND broke compatibility](https://github.com/lightningnetwork/lnd/issues/5890)
 - [Privacy in Lightning](https://github.com/t-bast/lightning-docs/blob/master/lightning-privacy.md)
-- [Lightning Escrow](https://twitter.com/LightningEscrow/status/1470856185704325135)
 - [Eclair Onion Messages](https://github.com/ACINQ/eclair/pull/2061)
 - [CLN Onion Messaging](https://github.com/ElementsProject/lightning/pull/4921)
 - [PeerSwap](https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf)
 - [lnd - Full re-use of static AMP invoices](https://github.com/lightningnetwork/lnd/pull/5803)
 - [lnd - remote signing](https://github.com/guggero/lnd/blob/d43854aa34ca0c2d0dfa12b06f299def39b512fb/docs/remote-signing.md)
-- [Lightning Node Connect](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
-- [Mastering Lightning Available](https://twitter.com/aantonop/status/1467976425827414025?s=20)
-- [The Lightning Lab](https://lightninglabs.substack.com/p/lightning-lights-up-latam-the-el)
-- [Lightning Loop new version](https://lightning.engineering/posts/2021-12-16-pool-prod-update/)
+
 
 ## DLCs
 
