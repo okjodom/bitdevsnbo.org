@@ -34,6 +34,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/280472351/
 - [Lightning Node Connect](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
 - [Mastering Lightning Available](https://twitter.com/aantonop/status/1467976425827414025?s=20)
 - [The Lightning Lab](https://lightninglabs.substack.com/p/lightning-lights-up-latam-the-el)
+- [Lightning pool new version](https://lightning.engineering/posts/2021-12-16-pool-prod-update/)
 
 ## DLCs
 
