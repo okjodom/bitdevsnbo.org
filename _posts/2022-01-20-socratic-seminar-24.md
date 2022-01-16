@@ -9,6 +9,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 
 - Respect people's privacy
 - Interaction and asking questions are encouraged
+- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [The Great Bitcoin Node LARP](https://twitter.com/PlebLab/status/1482453343847030786?s=20)
@@ -33,7 +34,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [RBF policy and mempool limit exemptions](https://github.com/bitcoin/bitcoin/pull/23711/files)
 - [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Fee Accounts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019724.html)
-- [Erlay support signaling | Bitcoin Core PR Review Club](https://bitcoincore.reviews/23443)
+- [Erlay support signaling - Bitcoin Core PR Review Club](https://bitcoincore.reviews/23443)
 
 # Lightning
 
