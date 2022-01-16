@@ -20,6 +20,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [OP_CTV/BIP119 ~4BTC Bug Bounty](https://twitter.com/JeremyRubin/status/1477760236115034113?s=20)
 - [HRF Bitcoin Development Grants](https://bitcoinmagazine.com/business/hrf-gifts-4-bitcoin-to-bitcoin-projects)
 - [HRF and Strike offer three 1BTC bounties](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
+- [1BTC Grant- Privacy Focused Lightning Wallet](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
 
 # Notable Code Changes
 
@@ -40,6 +41,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 
 - [Moxie Marlinspike on Web3 and Building with Lightning](https://twitter.com/moxie/status/1466520507763757058)
 - [Does eltoo require trusting watchtowers not to close channels](https://bitcoin.stackexchange.com/questions/110757/does-eltoo-require-trusting-watchtowers-not-to-close-channels)
+- [Split payments in 1 lightning invoice](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003410.html)
 - [Using DLCs for Stable USD Channels](https://suredbits.com/how-to-claim-the-1btc-stable-channel-bounty-from-hrf-and-strike/)
 - [What are anchor outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
 - [Lightning network node operator's guide](https://github.com/aljazceru/lightning-network-node-operator)
+- [Payment sender authentication](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003422.html)
