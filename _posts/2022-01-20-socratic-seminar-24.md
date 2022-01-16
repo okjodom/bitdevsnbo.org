@@ -32,3 +32,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [BIP-119 Deployment and Review Workshops](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019719.html)
 - [RBF policy and mempool limit exemptions](https://github.com/bitcoin/bitcoin/pull/23711/files)
 - [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
+- [Fee Accounts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019724.html)
+- [Erlay support signaling | Bitcoin Core PR Review Club](https://bitcoincore.reviews/23443)
+
+# Lightning
+
+- [Moxie Marlinspike on Web3 and Building with Lightning](https://twitter.com/moxie/status/1466520507763757058)
+- [Does eltoo require trusting watchtowers not to close channels](https://bitcoin.stackexchange.com/questions/110757/does-eltoo-require-trusting-watchtowers-not-to-close-channels)
+- [Using DLCs for Stable USD Channels](https://suredbits.com/how-to-claim-the-1btc-stable-channel-bounty-from-hrf-and-strike/)
+- [What are anchor outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
+- [Lightning network node operator's guide](https://github.com/aljazceru/lightning-network-node-operator)
