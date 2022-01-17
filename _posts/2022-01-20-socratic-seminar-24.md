@@ -36,6 +36,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Fee Accounts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019724.html)
 - [Erlay support signaling - Bitcoin Core PR Review Club](https://bitcoincore.reviews/23443)
+- [Musig2 spending in python (experimental)](https://github.com/meshcollider/musig2-py)
 
 # Lightning
 
