@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [HRF Bitcoin Development Grants](https://bitcoinmagazine.com/business/hrf-gifts-4-bitcoin-to-bitcoin-projects)
 - [HRF and Strike offer three 1BTC bounties](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 - [1BTC Grant- Privacy Focused Lightning Wallet](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
+- [Houston Hackathon Projects](https://twitter.com/niftynei/status/1475325822361821184?s=20)
 
 # Notable Code Changes
 
