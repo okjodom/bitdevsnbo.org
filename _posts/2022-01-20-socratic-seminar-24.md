@@ -32,6 +32,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 
 # Bitcoin
 
+- [Taproot funds burned](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
 - [BIP-119 Deployment and Review Workshops](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019719.html)
 - [RBF policy and mempool limit exemptions](https://github.com/bitcoin/bitcoin/pull/23711/files)
 - [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
@@ -48,3 +49,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [What are anchor outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
 - [Lightning network node operator's guide](https://github.com/aljazceru/lightning-network-node-operator)
 - [Payment sender authentication](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003422.html)
+
+# Other
+
+- [Taproot+ on Liquid](https://twitter.com/liquid_btc/status/1482796889946959873?s=12)
+- [2 solo blocks mined in the same week](https://twitter.com/BitcoinMagazine/status/1480887982794199047?s=20) [Other](https://twitter.com/ckpooldev/status/1481430284445024256)
