@@ -10,7 +10,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
+- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [The Great Bitcoin Node LARP](https://twitter.com/PlebLab/status/1482453343847030786?s=20)
 
