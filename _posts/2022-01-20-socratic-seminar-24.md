@@ -33,6 +33,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 # Bitcoin
 
 - [Taproot funds burned](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
+- [Making Valid Schnorr Pubkeys Policy](https://github.com/bitcoin/bitcoin/pull/24106)
 - [BIP-119 Deployment and Review Workshops](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019719.html)
 - [RBF policy and mempool limit exemptions](https://github.com/bitcoin/bitcoin/pull/23711/files)
 - [Efficient reusable Taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
