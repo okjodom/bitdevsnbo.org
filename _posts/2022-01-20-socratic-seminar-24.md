@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108307/
 - [Draft implementation of Taproot + Tapscript BIPs in btcd](https://github.com/btcsuite/btcd/pull/1787)
 - [PSBT Updates merged into bitcoin core](https://github.com/bitcoin/bitcoin/pull/17034)
 - [mempool validation and submission for packages of 1 child + parents](https://github.com/bitcoin/bitcoin/pull/22674)
+- [lnd - remote signer without chain backend](https://github.com/lightningnetwork/lnd/pull/6006)
 
 # Bitcoin
 
