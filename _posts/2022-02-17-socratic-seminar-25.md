@@ -14,6 +14,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - Use code AUS25 for The Bitcoin Conference!
 - Giving away tickets to Unconfiscatable
+- [SATSxSW](https://satsxsw.com)
 
 # News
 
