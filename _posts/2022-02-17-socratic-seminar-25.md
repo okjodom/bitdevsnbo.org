@@ -37,6 +37,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 - [BOLT12 Support in LND (?)](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 - [Rebalancing doesn't change ability of 2 nodes to pay each other](https://twitter.com/renepickhardt/status/1485999156439179273?s=20&t=z8AgVmdUBSr0iGuFRdyPbA)
 - [LNURLVend - Offline Lightning Vending Machine](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019761.html)
+- [Latency of Payment Channels](https://twitter.com/renepickhardt/status/1494314742189543432?s=20&t=QqpESAiIacWaXgDD2Bsz3w)
 
 # Bitcoin
 
