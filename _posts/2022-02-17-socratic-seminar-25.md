@@ -28,6 +28,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 
 - [TXHASH + CHECKSIGFROMSTACK](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019813.html)
 - [CTV Dramatically Improves DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019808.html)
+- [CTV Signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019925.html)
 - [Recursive Covenant Opposition](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019885.html)
 - [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
 
