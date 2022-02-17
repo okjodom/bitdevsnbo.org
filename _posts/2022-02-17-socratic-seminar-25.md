@@ -12,6 +12,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
+- Use code AUS25 for The Bitcoin Conference!
+- Giving away tickets to Unconfiscatable
 
 # News
 
@@ -31,6 +33,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 
 # Lightning
 
+- [Probabilistic Channel Scoring](https://github.com/lightningdevkit/rust-lightning/pull/1227)
 - [BOLT12 Support in LND (?)](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 - [Rebalancing doesn't change ability of 2 nodes to pay each other](https://twitter.com/renepickhardt/status/1485999156439179273?s=20&t=z8AgVmdUBSr0iGuFRdyPbA)
 - [LNURLVend - Offline Lightning Vending Machine](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019761.html)
@@ -43,10 +46,12 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108428/
 - [Original Fee Sponsorship Proposal](https://gist.github.com/JeremyRubin/92a9fc4c6531817f66c2934282e71fdf)
 - [Threshold Sigs with Musig + Merkle Trees](https://github.com/ElementsProject/scriptless-scripts/blob/master/md/thresh-metr.md)
 - [P2C Tweak Fields in PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019761.html)
+- [SHA256 Hashing Speedups](https://twitter.com/pavolrusnak/status/1485586891944697857?s=20&t=7Z4dsh5_5QPm67XSa4oavw)
 
 # Misc
 
 - [P2PKH outputs make up 23% of the count, but 72% of the value](https://twitter.com/murchandamus/status/1493344130302414851)
 - [Proof of Reserves (Kraken)](https://www.kraken.com/proof-of-reserves)
 - [AOPP](https://lnmarkets.substack.com/p/41-aopp-bitcoin-options-and-much)
+- [BIP 322](https://github.com/bitcoin/bitcoin/pull/24058)
 - [Bitcoin Address Reuse Statistics](https://blog.bitmex.com/bitcoin-address-re-use-statistics/)
