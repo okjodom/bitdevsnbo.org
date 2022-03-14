@@ -29,19 +29,21 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108532/
 - [Recurring bitcoin/ln payments using DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020035.html)
 - [Teleport Transactions / CoinSwap](https://github.com/bitcoin-teleport/teleport-transactions/)
 - [Simple CTV Vault](https://github.com/jamesob/simple-ctv-vault)
+- [OP_EVICT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019926.html)
 
 
 # Lightning
 - [LnVortex - open ln channels in a coinjoin](https://github.com/benthecarman/ln-vortex)
 - [RoboSats - Decentralized bitcoin purchases over lightning](https://github.com/Reckless-Satoshi/robosats)  
 - [lnd state bloat](https://mobile.twitter.com/roasbeef/status/1498065396993200130)
-
+- [Channel Eviction From Channel Factories By New Covenant Operations](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003479.html)
 
 # Bitcoin
 - [Don't Mix Your Timelocks](https://medium.com/blockstream/dont-mix-your-timelocks-d9939b665094)
 - [Bitcoin Script Expressiveness: To recurse or not to recurse](https://bitcoinops.org/en/newsletters/2022/03/09/)
 - [Open p2p connections to nodes that listen on non-default ports](https://bitcoincore.reviews/23542)
 - [Fuzz testing in core](https://twitter.com/MarcoFalke/status/1497215035617202176)
+- [Invalid script and arbitrary data in genesis block](https://bitcoin.stackexchange.com/questions/112439/how-can-the-genesis-block-contain-arbitrary-data-on-it-if-the-script-is-invalid)
 
 # Misc
 
