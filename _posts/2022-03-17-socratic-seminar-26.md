@@ -16,6 +16,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108532/
 
 # News
 
+- [Bitcoin 2022 Bitdevs](https://www.meetup.com/BitDevsNYC/events/284635231/)
 - [SatsxSW Hackathon!](https://www.thrillerbitcoin.com/satsx-hackathon-by-pleb-lab-day-2/)
 
 # Research
