@@ -31,6 +31,8 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108532/
 - [bdk v0.4.0](https://github.com/bitcoindevkit/bdk-cli/releases/tag/v0.4.0)
 - [HWI - ledger bitcoin 2.0 support](https://github.com/bitcoin-core/HWI/pull/550)
 - [Migration to descriptor wallets](https://bitcoincore.reviews/19602)
+- [BIP326 Number Assigned](https://github.com/bitcoin/bips/pull/1269)
+- [Add (sorted)multi_a descriptor for k-of-n multisig inside tr](https://github.com/bitcoin/bitcoin/pull/24043)
 
 # Contract Protocols
 - [Recurring bitcoin/ln payments using DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020035.html)
