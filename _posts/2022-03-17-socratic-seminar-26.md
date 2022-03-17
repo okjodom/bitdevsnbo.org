@@ -18,12 +18,13 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108532/
 
 - [Bitcoin 2022 Bitdevs](https://www.meetup.com/BitDevsNYC/events/284635231/)
 - [SatsxSW Hackathon!](https://www.thrillerbitcoin.com/satsx-hackathon-by-pleb-lab-day-2/)
+- [Wasabi censoring coinjoin inputs](https://bitcoinmagazine.com/business/wasabi-wallet-explains-new-bitcoin-censorship)
 
 # Research
 
+- [Wasabi Address Reuse Bug](https://twitter.com/benthecarman/status/1497270907290763270) ([nopara's explanation](https://www.reddit.com/r/CryptoCurrency/comments/syw2bs/wasabi_wallets_coinjoin_feature_has_been_cracked/hyhts39/))
 - [CoinPool](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html?s=09)
 - [MimbleWimble Broken](https://arxiv.org/abs/2112.13009)
-- [Wasabi Address Reuse Bug](https://twitter.com/benthecarman/status/1497270907290763270) ([nopara's explanation](https://www.reddit.com/r/CryptoCurrency/comments/syw2bs/wasabi_wallets_coinjoin_feature_has_been_cracked/hyhts39/))
 
 # Notable Code Changes
 - [Phantom node payments (ldk)](https://github.com/lightningdevkit/rust-lightning/pull/1199)
