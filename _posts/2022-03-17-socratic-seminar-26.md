@@ -40,10 +40,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/283108532/
 - [OP_EVICT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019926.html)
 
 # Lightning
+- [Channel Eviction From Channel Factories By New Covenant Operations](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003479.html)
 - [LnVortex - open ln channels in a coinjoin](https://github.com/benthecarman/ln-vortex)
 - [RoboSats - Decentralized bitcoin purchases over lightning](https://github.com/Reckless-Satoshi/robosats)  
 - [lnd state bloat](https://mobile.twitter.com/roasbeef/status/1498065396993200130)
-- [Channel Eviction From Channel Factories By New Covenant Operations](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003479.html)
 - [Lighting Payment speed](https://blog.lnrouter.app/lightning-payment-speed-2022)
 - [rust-teos a ldk based watch tower](https://twitter.com/sr_gi/status/1502327696134713348?s=20&t=Cuyj6m9_0-bqYY6MarEo3A)
 
