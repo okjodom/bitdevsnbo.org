@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [FROST Formal Specification](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-frost)
 - [Taro - Taproot-based protocol for multi-asset bitcoin and lightning](https://lightning.engineering/posts/2022-4-5-taro-launch/) (BIPs: [1](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro.mediawiki), [2](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro-ms-smt.mediawiki), [3](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro-proof-file.mediawiki), [4](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro-addr.mediawiki), [5](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro-universe.mediawiki), [6](https://github.com/Roasbeef/bips/blob/bip-taro/bip-taro-vm.mediawiki))
 - [Impervious DIDs](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/)
+- [Silent Payments](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8) [Bitcoin Core PR](https://github.com/bitcoin/bitcoin/pull/24897)
 
 # Bitcoin Core
 
