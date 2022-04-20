@@ -20,6 +20,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 # Security
 
 - [Google Chrome 0 day CVE](https://twitter.com/StocksmenCARL/status/1507832895590879243?s=20&t=Rv3kOlii5PINKJlZryc4TQ)
+- [Java 15-18 ECDSA signatures vulnerable](https://twitter.com/tqbf/status/1516570590211153922?s=20&t=9TMH1KUvfCUsiK9DD8DiqQ)
 
 # Research
 - [Musig2 BIP Draft](https://github.com/jonasnick/bips/blob/musig2/bip-musig2.mediawiki)
