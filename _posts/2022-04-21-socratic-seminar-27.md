@@ -15,13 +15,15 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [Texas Work Group](https://portal.bcwg.texas.gov/stories/s/Texas-Work-Group-on-Blockchain-Matters-Home-Page/fxdd-vpwt/)
 
 # Events
-- [bitcoin ++, June 7-10](https://base58btc.notion.site/btc-is-a-bitcoin-dev-conf-8880ed55bfe6419fb1bc6cafbe463787)
+- [Lightning meetup](https://www.meetup.com/austin-lightning-devs/events/285410408/)
+- [bitcoin ++, June 7-10](https://base58btc.notion.site/btc-is-a-bitcoin-dev-conf-8880ed55bfe6419fb1bc6cafbe463787) ([QR](../assets/imgs/bitcoin-plus-plus.png))
 - Open source stage [Day 1](https://bitcointv.com/w/1oAMgLEZLssoNZ37YAW17e) [Day 2](https://bitcointv.com/w/t73LCyXifcK5GCQ9Hodiig)
 
 # Security
 
 - [Google Chrome 0 day CVE](https://twitter.com/StocksmenCARL/status/1507832895590879243?s=20&t=Rv3kOlii5PINKJlZryc4TQ)
 - [Java 15-18 ECDSA signatures vulnerable](https://twitter.com/tqbf/status/1516570590211153922?s=20&t=9TMH1KUvfCUsiK9DD8DiqQ)
+- [Wasabi blacklisting](https://blog.wasabiwallet.io/zksnacks-blacklisting-update/)
 
 # Research
 - [Musig2 BIP Draft](https://github.com/jonasnick/bips/blob/musig2/bip-musig2.mediawiki)
@@ -30,6 +32,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [Impervious DIDs](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/)
 - [Silent Payments](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8) [Bitcoin Core PR](https://github.com/bitcoin/bitcoin/pull/24897)
 - [Bitcoin DAO Incubator](https://twitter.com/JeremyRubin/status/1516129183667171329)
+- [Lisp in Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020036.html)
 
 # Bitcoin Core
 
@@ -39,6 +42,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 
 # Lightning
 
+- [Is probing bad?](https://twitter.com/_arshbot/status/1512470948330496005)
 - [MuSig2 coming in lnd](https://twitter.com/roasbeef/status/1509691640218329098?s=20&t=Rv3kOlii5PINKJlZryc4TQ)
 - [lsat-js compatibility with Aperture](https://twitter.com/BuckPerley/status/1496512765019762688)
 - [Voltage updates](https://voltage.cloud/blog/voltage-announcements/announcing-surge-and-our-next-generation-platform/)
