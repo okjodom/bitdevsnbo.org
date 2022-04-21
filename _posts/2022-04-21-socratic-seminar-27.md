@@ -33,6 +33,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [Silent Payments](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8) [Bitcoin Core PR](https://github.com/bitcoin/bitcoin/pull/24897)
 - [Bitcoin DAO Incubator](https://twitter.com/JeremyRubin/status/1516129183667171329)
 - [Lisp in Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020036.html)
+- [Is the bitcoin network slowing down?](https://blog.lopp.net/is-bitcoin-network-slowing-down/)
 
 # Bitcoin Core
 
