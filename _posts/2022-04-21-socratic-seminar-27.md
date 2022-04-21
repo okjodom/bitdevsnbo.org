@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [Texas Work Group](https://portal.bcwg.texas.gov/stories/s/Texas-Work-Group-on-Blockchain-Matters-Home-Page/fxdd-vpwt/)
+- [GitHub issue to collect new topics](https://github.com/austinbitdevs/austinbitdevs.com/issues/5)
 
 # Events
 - [Lightning meetup](https://www.meetup.com/austin-lightning-devs/events/285410408/)
