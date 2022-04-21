@@ -36,6 +36,9 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [Lisp in Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020036.html)
 - [Is the bitcoin network slowing down?](https://blog.lopp.net/is-bitcoin-network-slowing-down/)
 
+# Covenants
+- [CTV soft fork](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
+
 # Bitcoin Core
 
 - [Syncing version 0.5](https://achow101.com/2022/03/syncing-0.5.0)
