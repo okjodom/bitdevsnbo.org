@@ -56,4 +56,5 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [MuSig2 coming in lnd](https://twitter.com/roasbeef/status/1509691640218329098?s=20&t=Rv3kOlii5PINKJlZryc4TQ)
 - [lsat-js compatibility with Aperture](https://twitter.com/BuckPerley/status/1496512765019762688)
 - [Voltage updates](https://voltage.cloud/blog/voltage-announcements/announcing-surge-and-our-next-generation-platform/)
+- [Using LND Remote Signing in a Mobile Context](https://groups.google.com/a/lightning.engineering/g/lnd/c/G_7h45-5WAg/m/qLpBlfhqAAAJ)
 - [Galoy on Lightning Fees](https://github.com/GaloyMoney/liquidity-fees-paper) [Paper](https://github.com/GaloyMoney/liquidity-fees-paper/releases/tag/v1)
