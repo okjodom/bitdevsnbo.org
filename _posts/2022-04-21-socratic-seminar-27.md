@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 - [Google Chrome 0 day CVE](https://twitter.com/StocksmenCARL/status/1507832895590879243?s=20&t=Rv3kOlii5PINKJlZryc4TQ)
 - [Java 15-18 ECDSA signatures vulnerable](https://twitter.com/tqbf/status/1516570590211153922?s=20&t=9TMH1KUvfCUsiK9DD8DiqQ)
 - [Wasabi blacklisting](https://blog.wasabiwallet.io/zksnacks-blacklisting-update/)
+- [Miniscript vulnerability)[https://bitcoindevkit.org/blog/miniscript-vulnerability/)
 
 # Research
 - [Musig2 BIP Draft](https://github.com/jonasnick/bips/blob/musig2/bip-musig2.mediawiki)
@@ -38,6 +39,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285060925/
 
 # Covenants
 - [CTV soft fork](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
+
+# DLC
+
+- [Messaging](https://mailmanlists.org/pipermail/dlc-dev/2022-March/000135.html)
 
 # Bitcoin Core
 
