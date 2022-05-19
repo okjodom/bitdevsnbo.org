@@ -21,7 +21,6 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 
 # Notable Code Updates
 - [OldestFirstCoinSelection (bdk)](https://github.com/bitcoindevkit/bdk/pull/557)
-- [Musig signing added to lnd rpc](https://github.com/lightningnetwork/lnd/pull/6361)
 - [Tor congestion control](https://blog.torproject.org/congestion-contrl-047/)
 
 
@@ -33,6 +32,10 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 - [Blockchain Commons Multisig Scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md#appendices-further-information)
 - [Bulletproofs++](https://eprint.iacr.org/2022/510)
 
+# Taproot & MuSig
+- [Taproot wallet support in lnd](https://github.com/lightningnetwork/lnd/pull/6263)
+- [Musig signing added to lnd rpc](https://github.com/lightningnetwork/lnd/pull/6361)
+- [MuSig vs MPC](https://twitter.com/real_or_random/status/1527216333821198336?t=XF9SLYtX-IueZklqlFp4AQ&s=19)
 
 # Bitcoin Core
 - [Indexes on pruned nodes](https://bitcoincore.reviews/21726)
@@ -42,6 +45,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 # Contract Protocols
 - [Simple Vault w/ APO](https://github.com/darosior/simple-anyprevout-vault) [Concerns](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020430.html)
 - [Spacechains by Ruben Somsen](https://twitter.com/SomsenRuben/status/1519009818425671684?s=20&t=lyPz7ZUV9PBeoaLmFfYEPg) ([CTV Spacechains](https://github.com/fiatjaf/simple-ctv-spacechain))
+- [DLC Channels](https://github.com/discreetlogcontracts/dlcspecs/pull/196)
 
 
 # Lightning
