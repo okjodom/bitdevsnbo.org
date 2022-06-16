@@ -55,3 +55,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215002/
 
 # Lightning 
 - [LN Summit 22](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
+- [LNC Web npm package](https://github.com/lightninglabs/lnc-web)
