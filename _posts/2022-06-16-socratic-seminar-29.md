@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215002/
 
 # Security
 - [medium_of_exchange lightning node hack](http://www.mediumofexchange.info/)
+- [Add hertz bleed](https://www.hertzbleed.com/)
 
 # Research
 - [Rule 110 in Bitcoin Script and Turing Completeness](https://github.com/supertestnet/rule-110-in-bitcoin-script/blob/main/README.md)
