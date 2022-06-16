@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 28"
-meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
+title: "Socratic 29"
+meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215002/
 ---
 
 # Announcements
@@ -21,20 +21,22 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 - [lnuptime](https://lnuptime.com) - Winners of the Voltage prize
 - [pLN](https://github.com/BitcoinDevShop/pln) - Winners of Sensei prize
 - [Simpmint](https://github.com/justinmoon/minimint#5) - Grand Prize Winners
+- [translnd](https://github.com/benthecarman/translnd)
 
 
 # Security
 - [medium_of_exchange lightning node hack](http://www.mediumofexchange.info/)
-
 
 # Research
 - [Rule 110 in Bitcoin Script and Turing Completeness](https://github.com/supertestnet/rule-110-in-bitcoin-script/blob/main/README.md)
 - [Decentralized Mixer - DMix](https://github.com/disnocen/dmix2) ([video](https://www.youtube.com/watch?app=desktop&v=Awcf-7G5vn8))
 - [Bitcoin and MEV](https://twitter.com/roasbeef/status/1530256839954182144)
 - [Version 5 of FROST spec](https://twitter.com/chelseakomlo/status/1531742900299517952)
+- [Has bitcoin hard forked?](https://blog.lopp.net/has-bitcoin-ever-hard-forked/)
 
 # Notable Code Updates
 - [0-conf Channels (rust-lightning)](https://github.com/lightningdevkit/rust-lightning/pull/1401)
+- [0-conf in sensei](https://twitter.com/JohnCantrell97/status/1537302760936378368?s=20&t=xEwBMX1HPFk2NnTeaqwowg)
 
 # Bitcoin
 - [Rolling your own C++](https://github.com/bitcoin/bitcoin/pull/22702#issuecomment-1146017151)
@@ -45,7 +47,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 # Contract Protocols
 - [Bitcoin Community Banks](https://gist.github.com/ajtowns/dc9a59cf0a200bd1f9e6fb569f76f7a0)
 - [fedimint - ecash](https://diyhpl.us/wiki/transcripts/btcpp/2022/fedimint-ecash/)
-
+- [DLC Protocol hard fork](https://github.com/discreetlogcontracts/dlcspecs/pull/163)
 
 # Privacy
 - [BIP47 Discussions](https://gist.github.com/RubenSomsen/21c477c90c942acf45f8e8f5c1ad4fae)
@@ -53,4 +55,3 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/285214961/
 
 # Lightning 
 - [LN Summit 22](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
-- 
