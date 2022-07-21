@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215038/
 
 - [Is key-path only okay in taproot?](https://bitcoin.stackexchange.com/questions/113989/bip-341-should-key-path-only-p2tr-be-eschewed-altogether)
 - [Why does failed OP_CHECKSIGADD not just add 0](https://bitcoin.stackexchange.com/questions/114446/why-do-invalid-signatures-in-op-checksigadd-not-push-to-the-stack)
+- [How to determine output type from input data only](https://twitter.com/murchandamus/status/1549201407747694593?s=20&t=mqKh1ywjauEUOknsaKQ3zQ)
 
 # Notable Code Updates
 
@@ -45,7 +46,9 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215038/
 - [0 conf lightning channels](https://twitter.com/JohnCantrell97/status/1542196189319335936?s=20&t=uSgkQaaG6-MX4HyExEY-wQ)
 - [Tunnel sats](https://twitter.com/TunnelSats/status/1546978719784476672)
 
-# Others
+# Projects
 
 - [Nostr voice chat](https://github.com/Giszmo/Nostr-Voice-Chat)
 - [Bullrun](https://github.com/arcadecity/bullrun)
+- [Fedimint](https://fedimint.org/)
+- [Validated Lightning Signer (VLS) broker by Sphinx](http://sphinx.chat/2022/06/27/a-lightning-nodes-problem-with-hats/)
