@@ -18,7 +18,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215038/
 # Research
 
 - [Just in time: XOnly pubkeys](https://github.com/jonasnick/bips/issues/32)
-- [Half aggregated signatures](https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/)
+- [Half aggregated signatures](https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/) ([Why it breaks adaptor signatures](https://www.gijsvandam.nl/post/why-does-signature-half-aggregation-break-adaptor-signatures/))
 - [TxWithold smart contracts](https://thelab31.xyz/blog/txwithhold)
 
 # Stack exchange questions
