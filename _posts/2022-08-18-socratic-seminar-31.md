@@ -51,6 +51,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [Mass exits on Lightning](https://arxiv.org/abs/2208.01908)
 - [Liquidity ads in RTL](https://twitter.com/RTL_App/status/1558926546928250880)
 - [Channel Jamming gitbook](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003673.html)
+- [Zero-conf channels in LND](https://github.com/lightningnetwork/lnd/blob/master/docs/zero_conf_channels.md)
 
 # Projects
 
