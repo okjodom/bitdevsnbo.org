@@ -38,6 +38,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 
 # Bitcoin Core
 
+- [Call for P2P Maintainer](https://github.com/bitcoin/bitcoin/issues/25870)
 - [Change vs External address descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
 - [rawtr() descriptor](https://github.com/bitcoin/bitcoin/pull/23480)
 - [Mitigating wallet scams](https://github.com/bitcoin/bitcoin/pull/25766)
