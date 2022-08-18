@@ -20,6 +20,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 # News
 
 - [Tornado Cash Sanctions](https://home.treasury.gov/news/press-releases/jy0916)
+- [Ethereum planning to UASF](https://twitter.com/JackNiewold/status/1560284429519667202)
 
 # Research
 
@@ -52,6 +53,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [Liquidity ads in RTL](https://twitter.com/RTL_App/status/1558926546928250880)
 - [Channel Jamming gitbook](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003673.html)
 - [Zero-conf channels in LND](https://github.com/lightningnetwork/lnd/blob/master/docs/zero_conf_channels.md)
+- [Taproot all the things in LND](https://github.com/lightningnetwork/lnd/pull/6810)
 
 # Projects
 
