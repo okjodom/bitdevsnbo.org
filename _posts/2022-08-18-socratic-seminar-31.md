@@ -15,6 +15,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [Nostr Workshop](https://www.meetup.com/pleb-lab/events/287761996/)
 - [IRL base58](https://twitter.com/base58btc/status/1559296871218176001)
 - [Silicon Salon 2](https://www.siliconsalon.info/)
+- [Defending BTC](https://twitter.com/defendingBTC/status/1560318861425139715?s=20&t=pj5R1fymHcoh8F54vWpqyg)
 
 # News
 
