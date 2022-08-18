@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [Fake malicious dependencies](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [SIGHASH_ONE + Lightning Congestion Control](https://telegra.ph/Batching-for-Plebs-aka-congestion-control-without-a-soft-fork-08-17)
 - [Different ways to verify address ownership](https://bitcoinops.org/en/newsletters/2022/07/27/#multiformat-single-sig-message-signing)
+- [TxWithold](https://thelab31.xyz/blog/txwithhold)
 
 # DLCs
 
@@ -38,6 +39,8 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [Change vs External address descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
 - [rawtr() descriptor](https://github.com/bitcoin/bitcoin/pull/23480)
 - [Mitigating wallet scams](https://github.com/bitcoin/bitcoin/pull/25766)
+- [Result class](https://bitcoincore.reviews/25218)
+- [Stale block fingerprinting](https://github.com/bitcoin/bitcoin/pull/24571)
 
 
 # Lightning
