@@ -58,3 +58,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 # Projects
 
 - [Blind schnorr sig demo](https://blindsigs.utxo.club/)
+- [Block hardware wallet post](https://wallet.build/losing-your-keys-without-losing-your-coins/)
