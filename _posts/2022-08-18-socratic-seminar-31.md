@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215133/
 - [SIGHASH_ONE + Lightning Congestion Control](https://telegra.ph/Batching-for-Plebs-aka-congestion-control-without-a-soft-fork-08-17)
 - [Different ways to verify address ownership](https://bitcoinops.org/en/newsletters/2022/07/27/#multiformat-single-sig-message-signing)
 - [TxWithold](https://thelab31.xyz/blog/txwithhold)
+- [Taproot Adoption](https://txstats.com/dashboard/db/taproot-statistics?orgId=1)
 
 # DLCs
 
