@@ -34,6 +34,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [silent payment descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020857.html)
 - [Bitcoin-STARKS khepri](https://github.com/bitcoin-stark/khepri)
 
+# Cryptography
+- [Musig2 approaching v1.0 of the BIP](https://nitter.net/n1ckler/status/1567168267025874944)
+- [Work on Schnorr Batch Verification](https://github.com/bitcoin-core/secp256k1/pull/1134)
+
 # Bitcoin
 - [I2P - transient addresses for outbound connections](https://github.com/bitcoin/bitcoin/pull/25355)
 - [Making Bitcoin Unstoppable: Mesh Nets](https://bitcoinmagazine.com/technical/making-bitcoin-unstoppable-part-one-mesh-nets)
