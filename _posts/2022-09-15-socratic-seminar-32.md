@@ -17,6 +17,8 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 
 # News
 - [Carl Dong leaving Chaincode Labs and bitcoin core contributing](https://twitter.com/carl_dong/status/1565108387842560000)
+- [Coinbase funding lawsuit against Treasury dept](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=248cf3e6ee23)
+- [Sanctions updates](https://www.nobsbitcoin.com/ofac-tornado-sanctions-update/)
 
 # Security
 - STONEWALLx2 DoS attack on Samurai Wallet: [Mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020914.html), [CVE](https://www.cve.org/CVERecord?id=CVE-2022-35913)
