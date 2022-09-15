@@ -26,13 +26,17 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [Tapscript: New Opcodes, Reduced Limits and Covenants](https://blog.blockstream.com/tapscript-new-opcodes-reduced-limits-and-covenants/)
 
 # Privacy
-- [$\mu$Cash: Transparent Anonymous Transactions](https://www.meetup.com/austin-bitcoin-developers/events/285215204/)
+- [$\mu$Cash: Transparent Anonymous Transactions](https://eprint.iacr.org/2022/1104.pdf)
 - [Credible Confessions](https://github.com/DavidVorick/CredibleConfessions)
+- [silent payment descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020857.html)
 
 # Bitcoin
 - [I2P - transient addresses for outbound connections](https://github.com/bitcoin/bitcoin/pull/25355)
 - [Making Bitcoin Unstoppable: Mesh Nets](https://bitcoinmagazine.com/technical/making-bitcoin-unstoppable-part-one-mesh-nets)
 - [Looking into a weird block](https://twitter.com/akaKush0/status/1567554622742560768)
+- [Wallet label BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
+- [braidpool implementation](https://github.com/pool2win/braidpool)
+- [migratewallet rpc commmand](https://github.com/bitcoin/bitcoin/pull/19602)
 
 
 # Lightning
