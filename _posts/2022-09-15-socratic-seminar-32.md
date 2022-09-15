@@ -37,7 +37,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [Making Bitcoin Unstoppable: Mesh Nets](https://bitcoinmagazine.com/technical/making-bitcoin-unstoppable-part-one-mesh-nets)
 - [Looking into a weird block](https://twitter.com/akaKush0/status/1567554622742560768)
 - [Wallet label BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
-- [braidpool implementation](https://github.com/pool2win/braidpool)
+- [braidpool implementation](https://github.com/pool2win/braidpool), [blog post](https://pool2win.github.io/braidpool/2021/08/18/deliver-hashrate-to-market-makers.html)
 - [migratewallet rpc commmand](https://github.com/bitcoin/bitcoin/pull/19602)
 
 # Lightning
