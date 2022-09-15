@@ -26,9 +26,11 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [Tapscript: New Opcodes, Reduced Limits and Covenants](https://blog.blockstream.com/tapscript-new-opcodes-reduced-limits-and-covenants/)
 
 # Privacy
+- [Spiral - private electrum server](https://btc.usespiral.com/) [Paper](https://eprint.iacr.org/2022/368)
 - [$\mu$Cash: Transparent Anonymous Transactions](https://eprint.iacr.org/2022/1104.pdf)
 - [Credible Confessions](https://github.com/DavidVorick/CredibleConfessions)
 - [silent payment descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020857.html)
+- [Bitcoin-STARKS khepri](https://github.com/bitcoin-stark/khepri)
 
 # Bitcoin
 - [I2P - transient addresses for outbound connections](https://github.com/bitcoin/bitcoin/pull/25355)
@@ -37,7 +39,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [Wallet label BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
 - [braidpool implementation](https://github.com/pool2win/braidpool)
 - [migratewallet rpc commmand](https://github.com/bitcoin/bitcoin/pull/19602)
-
 
 # Lightning
 - [Scaling Problems For Taro on Bitcoin?](https://bitcoinmagazine.com/technical/scaling-problem-for-lightning-labs-taro)
