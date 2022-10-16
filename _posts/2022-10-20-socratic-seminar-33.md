@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 32"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
+title: "Socratic 33"
+meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 ---
 
 # Announcements
@@ -28,6 +28,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215204/
 - [New transaction policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
 - [Chaincode research price](https://research.chaincode.com/2022/09/16/introduction/)
 - [Spatial analysis of bitcoin mining](https://www.nature.com/articles/s41598-022-14987-0)
+- [Validity rollups](https://bitcoinrollups.org/)
 
 # BIPs and Proposals
 
