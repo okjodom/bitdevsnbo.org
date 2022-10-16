@@ -12,6 +12,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
+- [Legends of Lightning Tournament](https://makers.bolt.fun/tournaments/1/overview)
 
 # General
 
@@ -22,10 +23,12 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [Muun protests opt-in full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Lloyd Fournier on DLCs + Federations](https://www.youtube.com/watch?v=hCjbStBKCEQ)
 - [Judica VM](https://github.com/judica-org/judica-vm)
+    - [Workshop slides](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_863)
 
 # Research
 
 - [New transaction policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
+    - [Optech explanation](https://bitcoinops.org/en/newsletters/2022/10/05/#proposed-new-transaction-relay-policies-designed-for-ln-penalty)
 - [Chaincode research price](https://research.chaincode.com/2022/09/16/introduction/)
 - [Spatial analysis of bitcoin mining](https://www.nature.com/articles/s41598-022-14987-0)
 - [Validity rollups](https://bitcoinrollups.org/)
@@ -58,6 +61,9 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 
 # News & Gossip
 
+- [Bitcoin Core v24 release candidate](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/24.0-Release-Candidate-Testing-Guide)
 - [Strike raises $80m](https://bitcoinmagazine.com/business/bitcoin-payment-provider-strike-raises-80-million)
 - [Nydig developer report](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
 - [Mullvad hardware company](https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/)
+- [Celsius doxxes all users](https://www.nobsbitcoin.com/celsius-doxxes-all-users/)
+- [EU bans russian bitcoin wallets](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_5989)
