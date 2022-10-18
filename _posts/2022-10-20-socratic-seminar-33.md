@@ -24,7 +24,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [Lloyd Fournier on DLCs + Federations](https://www.youtube.com/watch?v=hCjbStBKCEQ)
 - [Judica VM](https://github.com/judica-org/judica-vm)
     - [Workshop slides](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_863)
-- [Vortex GUI](https://github.com/ln-vortex/ln-vortex-gui)
+- [Vortex](https://lnvortex.com/)
 
 # Research
 
