@@ -58,6 +58,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [BIP 324 PR](https://github.com/bitcoin/bips/pull/1378)
 - [Sensei adds rapid gossip support](https://github.com/L2-Technology/sensei/pull/121)
 - [Fedimint distributed key generation](https://github.com/fedimint/fedimint/pull/600)
+- [Fedimint + FROST](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
 
 # News & Gossip
 
