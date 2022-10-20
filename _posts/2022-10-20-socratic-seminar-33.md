@@ -20,8 +20,17 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [Taro git repo](https://github.com/lightninglabs/taro)
 - [Indra](https://github.com/Indra-Labs/indra)
 - [Sphinx hardware node](https://twitter.com/sphinx_chat/status/1571974701098074112)
-- [Bitcoin lottery](https://supertestnet.github.io/bitcoin-lottery-contract/mainnet.html)
+
+# Mempool
+
 - [Muun protests opt-in full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
+  - [Response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020999.html)
+- [New transaction policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
+    - [Optech explanation](https://bitcoinops.org/en/newsletters/2022/10/05/#proposed-new-transaction-relay-policies-designed-for-ln-penalty)
+- [Erlay PR merged](https://github.com/bitcoin/bitcoin/pull/23443)
+
+# Contracting
+
 - [Lloyd Fournier on DLCs + Federations](https://www.youtube.com/watch?v=hCjbStBKCEQ)
 - [Judica VM](https://github.com/judica-org/judica-vm)
     - [Workshop slides](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_863)
@@ -29,8 +38,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 
 # Research
 
-- [New transaction policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
-    - [Optech explanation](https://bitcoinops.org/en/newsletters/2022/10/05/#proposed-new-transaction-relay-policies-designed-for-ln-penalty)
 - [Chaincode research price](https://research.chaincode.com/2022/09/16/introduction/)
 - [Spatial analysis of bitcoin mining](https://www.nature.com/articles/s41598-022-14987-0)
 - [Validity rollups](https://bitcoinrollups.org/)
@@ -62,7 +69,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - [Sensei adds rapid gossip support](https://github.com/L2-Technology/sensei/pull/121)
 - [Fedimint distributed key generation](https://github.com/fedimint/fedimint/pull/600)
 - [Fedimint + FROST](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
-- [Step 1 of Erlay merged](https://github.com/bitcoin/bitcoin/pull/23443)
 
 # News & Gossip
 
