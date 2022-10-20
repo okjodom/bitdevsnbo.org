@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [Legends of Lightning Tournament](https://makers.bolt.fun/tournaments/1/overview)
+- [BIP Bounty Launch](https://twitter.com/notasithlord/status/1580942321108910080?s=46&t=AmUC5uHhY1vk6-w6a_RJwg)
 
 # General
 
@@ -47,6 +48,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215279/
 # Lightning
 
 - [Eclair async trampoline](https://github.com/ACINQ/eclair/pull/2435)
+- [Fee Rate Cards](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 - [LNSploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit)
 - [Experimental BOLT12 support in LND](https://github.com/carlaKC/boltnd)
 - [River Lightning API](https://rls.dev/)
