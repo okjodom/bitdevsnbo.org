@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215406/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [Bitcoin++ Conference in Mexico City Dec 9-11](https://btcplusplus.dev/)
+- [Bitcoin Program at UT - Liaison Wanted](https://docs.google.com/document/d/1TY4OKHJrhr4KPYbOJiFwJEptls5JsfW-/edit?usp=sharing&ouid=101122673877611762018&rtpof=true&sd=true)
 
 # Burak's Hellscape
 - [lnd broke again](https://github.com/lightningnetwork/lnd/issues/7096)
