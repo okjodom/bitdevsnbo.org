@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215406/
 
 - [Use of RBF during binance utxo consolidation](https://twitter.com/ziggamon/status/1592613060207706112?t=IWLJgY8F7X8ib8AT4MAC5w&s=19)
 - [CoreDev.tech transcripts](https://bitcoinops.org/en/newsletters/2022/10/26/)
+  - [Fee market discussion](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-11-fee-market/)
 - [Nydig developer report](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
 
 
