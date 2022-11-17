@@ -54,5 +54,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215406/
 
 - [Unjamming Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html) ([Optech Summary](https://bitcoinops.org/en/newsletters/2022/11/16/))
 - [Lnproxy](https://github.com/lnproxy/lnproxy)
+- [Preimage-stealer](https://github.com/dark-ln/preimage-stealer)
 - [CLN plugin manager](https://github.com/ElementsProject/lightning/pull/5647)
 - [Probing for recipient](https://github.com/lightning/bolts/pull/1032)
