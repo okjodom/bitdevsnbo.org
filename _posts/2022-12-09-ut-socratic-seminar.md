@@ -31,7 +31,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/
 - [Batch validation of CHECKMULTISIG using an extra hint field](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021048.html)
 - [Policy Management for Hardware Wallets](https://bitcoinops.org/en/newsletters/2022/05/18/#adapting-miniscript-and-output-script-descriptors-for-hardware-signing-devices)
 - [StackExchange - Skip IBD on pruned node?](https://bitcoin.stackexchange.com/questions/116030/skip-ibd-on-pruned-node)[assumeutxo](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016825.html)
-- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)[Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
+- Ephemeral Anchors [Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html) and [Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 
 # Contracting Protocols
 
