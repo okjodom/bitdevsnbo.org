@@ -48,6 +48,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 
 - [Reputation Credentials](https://bitcoinops.org/en/newsletters/2022/11/30/#reputation-credentials-proposal-to-mitigate-ln-jamming-attacks)
 - [Lightning Privacy](https://lightningprivacy.com//)
+- [Legends of Lightning](https://twitter.com/boltfun_btc/status/1600585935002796032)
 - [Mutiny Web](https://makers.bolt.fun/story/mutiny-web-pitch--476)
 - [Lnproxy](https://github.com/lnproxy/lnproxy)
 
