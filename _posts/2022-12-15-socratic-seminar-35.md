@@ -19,7 +19,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 
 # Miscellaneous
 
-- [Challenges of blockchain indexing](https://blog.lopp.net/the-challenges-of-block-chain-indexing/)
 - [CoreDev.tech transcripts](https://bitcoinops.org/en/newsletters/2022/10/26/)
   - [Fee market discussion](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-11-fee-market/)
   - [Moving off GitHub](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-11-github/)
