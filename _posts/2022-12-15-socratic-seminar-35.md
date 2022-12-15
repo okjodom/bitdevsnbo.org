@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [Build on L2](https://www.buildonl2.com/)
+- [Silicon Salon 3 (January 2023)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021213.html)
 
 # Miscellaneous
 
@@ -29,12 +30,13 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - [Libsecp Release](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021271.html)
 - [Batch validation of CHECKMULTISIG using an extra hint field](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021048.html)
 - [Incentive compatible replacements](https://github.com/bitcoin/bitcoin/pull/26451)
-- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)[Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
+- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html) [Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 
 # Contracting Protocols
 
+- [Contracting Primitives Working Group Meeting](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021269.html)
 - [DLC without pre-committed R values](https://mailmanlists.org/pipermail/dlc-dev/2022-November/000167.html)
-- [Non-custodial Options Contracts](https://blockstream.com/assets/downloads/pdf/options-whitepaper.pdf)
+- [Always look on the bright side of the annex](https://github.com/bitcoin-inquisition/bitcoin/pull/9)
 - [General smart contracts in bitcoin via covenants](https://merkle.fun/)
 - DLCs on Lightning
   - [CryptoGarage](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
