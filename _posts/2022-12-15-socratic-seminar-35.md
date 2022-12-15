@@ -12,8 +12,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
-- [Build on L2](https://www.buildonl2.com/)
 - [Silicon Salon 3 (January 2023)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021213.html)
+- [Build on L2](https://www.buildonl2.com/)
+- [Base58 classes](https://www.base58.info/classes)
+- [Trivia](https://twitter.com/niftynei/status/1603506367117000706)
 
 # Miscellaneous
 
