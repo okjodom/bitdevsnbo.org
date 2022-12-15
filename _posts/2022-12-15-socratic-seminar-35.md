@@ -12,6 +12,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
+- [Build on L2](https://www.buildonl2.com/)
 
 # Miscellaneous
 
@@ -25,9 +26,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 
 # Bitcoin
 
-- [Batch validation of CHECKMULTISIG using an extra hint field](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021048.html)
-- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)[Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 - [Libsecp Release](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021271.html)
+- [Batch validation of CHECKMULTISIG using an extra hint field](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021048.html)
+- [Incentive compatible replacements](https://github.com/bitcoin/bitcoin/pull/26451)
+- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)[Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 
 # Contracting Protocols
 
