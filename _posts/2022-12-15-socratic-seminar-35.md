@@ -15,7 +15,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - [Silicon Salon 3 (January 2023)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021213.html)
 - [Build on L2](https://www.buildonl2.com/)
 - [Base58 classes](https://www.base58.info/classes)
-- [Trivia](https://twitter.com/niftynei/status/1603506367117000706)
+- [Trivia](https://twitter.com/niftynei/status/1603506367117000706) Brought to you by [Base58](https://www.base58.info/)!
 
 # Miscellaneous
 
@@ -32,7 +32,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 - [Libsecp Release](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021271.html)
 - [Batch validation of CHECKMULTISIG using an extra hint field](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021048.html)
 - [Incentive compatible replacements](https://github.com/bitcoin/bitcoin/pull/26451)
-- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html) [Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
+- [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html), [Implementation](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 
 # Contracting Protocols
 
