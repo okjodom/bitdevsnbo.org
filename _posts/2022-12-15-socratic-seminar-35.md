@@ -36,7 +36,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215416/
 # Contracting Protocols
 
 - [Contracting Primitives Working Group Meeting](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021269.html)
-- [DLC without pre-committed R values](https://mailmanlists.org/pipermail/dlc-dev/2022-November/000167.html)
 - [Always look on the bright side of the annex](https://github.com/bitcoin-inquisition/bitcoin/pull/9)
 - [General smart contracts in bitcoin via covenants](https://merkle.fun/)
 - DLCs on Lightning
