@@ -10,7 +10,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/285215406/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintaexasbitcoiners)
+- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 - [Bitcoiner Jobs](https://bitcoinerjobs.co/)
 - [Bitcoin++ Conference in Mexico City Dec 9-11](https://btcplusplus.dev/)
 - [Bitcoin Program at UT - Liaison Wanted](https://docs.google.com/document/d/1TY4OKHJrhr4KPYbOJiFwJEptls5JsfW-/edit?usp=sharing&ouid=101122673877611762018&rtpof=true&sd=true)
