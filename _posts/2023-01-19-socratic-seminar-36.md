@@ -16,6 +16,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/jqhqbtyfccbzb/
 - [Base58 classes](https://www.base58.info/classes)
 
 # Regular (hopefully) Installment of Trivia!
+[Austin Bitdevs Trivia Question #2](https://twitter.com/base58btc/status/1615104312950272002)
 Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
