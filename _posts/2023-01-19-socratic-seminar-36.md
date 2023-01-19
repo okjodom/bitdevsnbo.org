@@ -20,7 +20,6 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/jqhqbtyfccbzb/
 Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
-- [Fedimint Hackathon](https://twitter.com/fedibtc/status/1610303187160027138)
 - [Taproot Lightning Channel](https://twitter.com/roasbeef/status/1609009596034863104)
 - [17% of Bitcoin Core 24.x listening nodes signaling full rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
 - [BIP47 Notification via Nostr DM](https://github.com/nostr-protocol/nips/pull/165)
@@ -28,6 +27,11 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Coldcard mk4 security model](https://blog.coinkite.com/understanding-mk4-security-model/)
 - [Incentive compatibility in bitcoin mining (fullrbf)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021276.html)
 
+# Fedimint
+- [setup ui](https://github.com/fedimint/fedimint/pull/1155)
+- [ecash recovery](https://github.com/fedimint/fedimint/pull/1015)
+- [modularization](https://github.com/fedimint/fedimint/pull/965)
+- [Fedimint Hackathon](https://twitter.com/fedibtc/status/1610303187160027138)
 
 # Contracting Protocols
 - [OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html)
