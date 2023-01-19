@@ -46,6 +46,9 @@ Brought to you by [Base58](https://www.base58.info/)
 
 - [Reputation Credentials](https://bitcoinops.org/en/newsletters/2022/11/30/#reputation-credentials-proposal-to-mitigate-ln-jamming-attacks)
 - Backwards compatible inbound fees [bLIP](https://github.com/lightning/blips/pull/22) and [ldk implementation](https://github.com/lightningdevkit/rust-lightning/pull/1942)
+- DLCs on Lightning
+    - [CryptoGarage](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
+    - [10101](https://makers.bolt.fun/story/how-10101-is-bringing-cfds-to-lightning--352)
 
 # Gossip
 
