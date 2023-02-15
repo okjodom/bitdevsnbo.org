@@ -11,12 +11,9 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/jqhqbtyfcdbvb/
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
-- [Bitcoin Book Club](https://signal.group/#CjQKIANhZgLzkAxZvhl9scGek3yggJFmo4uORZHNbYqBjIkZEhD7L61BaSiAOFTbRdB5veKF)
-- [Silicon Salon 3 (January 2023)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021213.html)
-
 
 # Regular Installment of Bitcoin Trivia!
-[Austin Bitdevs Trivia Question #2](https://twitter.com/base58btc/status/1624621838369169409)
+[Austin Bitdevs Trivia Question #3](https://twitter.com/base58btc/status/1624621838369169409)
 Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
@@ -44,4 +41,3 @@ Brought to you by [Base58](https://www.base58.info/)
 - [VLS Security Review](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003829.html)
 - [Async payment research](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003820.html)
 - [Swap-in-Potentiam](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
-
