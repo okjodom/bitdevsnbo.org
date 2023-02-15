@@ -29,6 +29,12 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Tapscript Malleability](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021452.html) and [APO Implications](https://github.com/bitcoin-inquisition/bitcoin/issues/19)
 - [BTCPay Server CVE-2022-32984](https://blog.btcpayserver.org/btcpay-server-cve-2022-32984/)
 
+# Fedimint
+- [Versioning](https://github.com/fedimint/fedimint/pull/1579)
+- [Migrations](https://github.com/fedimint/fedimint/pull/1567)
+- [Stability Pools](https://github.com/stability-pool/fedimint)
+- [Federated Mining Pools](https://www.discreetlog.com/fedipool/)
+
 # Ordinals and Inscriptions
 - [ord alpha release](https://rodarmor.com/blog/ord-alpha/)
 - [4MB block](https://mempool.space/block/0000000000000000000515e202c8ae73c8155fc472422d7593af87aa74f2cf3d)
