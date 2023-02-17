@@ -30,10 +30,11 @@ Brought to you by [Base58](https://www.base58.info/)
 - [BTCPay Server CVE-2022-32984](https://blog.btcpayserver.org/btcpay-server-cve-2022-32984/)
 
 # Fedimint
+- [Transaction](https://github.com/fedimint/fedimint/blob/master/docs/lifecycle.md#what-is-a-transaction)
+- [Federated Mining Pools](https://www.discreetlog.com/fedipool/)
+- [Stability Pools](https://github.com/stability-pool/fedimint)
 - [Versioning](https://github.com/fedimint/fedimint/pull/1579)
 - [Migrations](https://github.com/fedimint/fedimint/pull/1567)
-- [Stability Pools](https://github.com/stability-pool/fedimint)
-- [Federated Mining Pools](https://www.discreetlog.com/fedipool/)
 
 # Ordinals and Inscriptions
 - [ord alpha release](https://rodarmor.com/blog/ord-alpha/)
