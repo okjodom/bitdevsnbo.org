@@ -21,9 +21,7 @@ Brought to you by [Base58](https://www.base58.info/)
 - [OP_VAULT BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html)
 - [Jeremy Steps Back](https://twitter.com/JeremyRubin/status/1618806141903069184)
 - [CHECKSIGADD validation optimization](https://twitter.com/JeremyRubin/status/1618994157552570368)
-- [Scrib](https://tftc.io/martys-bent/issue-1314-introducing-scrib/)
 - [Legal protections for open source](https://twitter.com/kanzure/status/1622711399905460240)
-- [Why download witness data on pruned nodes](https://bitcoin.stackexchange.com/questions/117057/why-is-witness-data-downloaded-during-ibd-in-prune-mode)
 
 # Security and Vulnerabilities
 - [Costless bribes against time-sensitive protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021395.html)
@@ -40,6 +38,7 @@ Brought to you by [Base58](https://www.base58.info/)
 # Ordinals and Inscriptions
 - [ord alpha release](https://rodarmor.com/blog/ord-alpha/)
 - [4MB block](https://mempool.space/block/0000000000000000000515e202c8ae73c8155fc472422d7593af87aa74f2cf3d)
+- [Why download witness data on pruned nodes](https://bitcoin.stackexchange.com/questions/117057/why-is-witness-data-downloaded-during-ibd-in-prune-mode)
 - [ordisrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 - [OP_RETURN vs OP_FALSE OP_IF OP_PUSH](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021387.html), [Make OP_RETURN Limitless Again](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021438.html)
 
