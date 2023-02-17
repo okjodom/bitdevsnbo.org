@@ -19,13 +19,14 @@ Brought to you by [Base58](https://www.base58.info/)
 # Miscellaneous
 - [Ephemeral Anchors BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021373.html)
 - [OP_VAULT BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html)
-- [Another core developer takes step back](https://twitter.com/JeremyRubin/status/1618994157552570368)
+- [CHECKSIGADD validation optimization](https://twitter.com/JeremyRubin/status/1618994157552570368)
 - [Scrib](https://tftc.io/martys-bent/issue-1314-introducing-scrib/)
 - [Legal protections for open source](https://twitter.com/kanzure/status/1622711399905460240)
 - [Why download witness data on pruned nodes](https://bitcoin.stackexchange.com/questions/117057/why-is-witness-data-downloaded-during-ibd-in-prune-mode)
 
 # Security and Vulnerabilities
 - [Costless bribes against time-sensitive protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021395.html)
+- [Unenforceable fee obligations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html)
 - [Tapscript Malleability](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021452.html) and [APO Implications](https://github.com/bitcoin-inquisition/bitcoin/issues/19)
 - [BTCPay Server CVE-2022-32984](https://blog.btcpayserver.org/btcpay-server-cve-2022-32984/)
 
