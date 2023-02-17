@@ -19,6 +19,7 @@ Brought to you by [Base58](https://www.base58.info/)
 # Miscellaneous
 - [Ephemeral Anchors BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021373.html)
 - [OP_VAULT BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html)
+- [Jeremy Steps Back](https://twitter.com/JeremyRubin/status/1618806141903069184)
 - [CHECKSIGADD validation optimization](https://twitter.com/JeremyRubin/status/1618994157552570368)
 - [Scrib](https://tftc.io/martys-bent/issue-1314-introducing-scrib/)
 - [Legal protections for open source](https://twitter.com/kanzure/status/1622711399905460240)
