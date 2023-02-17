@@ -44,6 +44,8 @@ Brought to you by [Base58](https://www.base58.info/)
 
 
 # Lightning
+
+- [Path finding Algo Improvements in lnd](https://github.com/lightningnetwork/lnd/pull/6815)
 - [Lightning Benchmark](https://blog.getalby.com/lightning-benchmark/)
 - [VLS Security Review](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003829.html)
 - [Async payment research](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003820.html)
