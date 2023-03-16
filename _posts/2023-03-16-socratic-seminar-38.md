@@ -18,6 +18,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/jqhqbtyfcfbvb/
 Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
+- [bitcoin-qt](https://github.com/bitcoin-core/gui-qml)
 - [Yet another core contributor announces intention to step away](https://bitcoinmagazine.com/technical/bitcoin-core-maintainer-marco-falke-to-step-down)
 - [Lightning Labs getting sued](https://www.coindesk.com/business/2023/03/16/lightning-labs-taro-project-faces-halt-as-judge-issues-temporary-injunction-for-trademark-infringement/)
 - [Ledger 2.0 support](https://unchained.com/blog/multisig-security-ledger/)
@@ -27,6 +28,7 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # Notable code changes and Proposals
 - [Codex32](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021469.html)
+	- [website](https://secretcodex32.com/faq/index.html)
 - [utreexo signaling on service bit 24](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021515.html)
 - [secp256k1 0.3.0](https://github.com/bitcoin-core/secp256k1/blob/master/CHANGELOG.md#030---2023-03-08)
 - [assumeutxo](https://github.com/bitcoin/bitcoin/pull/25740) ([optech](https://bitcoinops.org/en/newsletters/2023/03/15/))
@@ -41,6 +43,7 @@ Brought to you by [Base58](https://www.base58.info/)
 - [fedimintd library](https://github.com/fedimint/fedimint/pull/1735)
 
 # Contracting Protocols
+- [roasbeef roadmap](https://twitter.com/roasbeef/status/1632850033380065280?s=20)
 - [OP_VAULT updates](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021526.html)- TLUVification and OP_CTV
 - [Rollkit](https://twitter.com/RollkitDev/status/1632438374513676288?s=20) - sovereign rollups on Bitcoin
   - [MEV on Bitcoin?](https://twitter.com/TheBlueMatt/status/1633599362269057024)
@@ -48,5 +51,6 @@ Brought to you by [Base58](https://www.base58.info/)
 
 
 # Lightning
+- [LDK roadmap](https://twitter.com/lightningdevkit/status/1635392924463804417?s=20)
 - [Flow 2.0](https://twitter.com/gkrizek/status/1628440689456615424) ([blog post](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/))
 - [Daric](https://eprint.iacr.org/2022/1295.pdf): A storage efficient payment channel with penalization mechanism
