@@ -18,6 +18,7 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
 - [Yet another core contributor announces intention to step away](https://bitcoinmagazine.com/technical/bitcoin-core-maintainer-marco-falke-to-step-down)
+- [Ledger 2.0 support](https://unchained.com/blog/multisig-security-ledger/)
 
 
 # Notable code changes and Proposals
