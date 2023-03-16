@@ -13,7 +13,8 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/jqhqbtyfcfbvb/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 
 # Regular Installment of Bitcoin Trivia!
-[Austin Bitdevs Trivia Question #4]()
+[Austin Bitdevs Trivia Question #4](https://twitter.com/base58btc/status/1636145790769848321?s=20)
+
 Brought to you by [Base58](https://www.base58.info/)
 
 # Miscellaneous
