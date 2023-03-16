@@ -29,8 +29,13 @@ Brought to you by [Base58](https://www.base58.info/)
 - [assumeutxo](https://github.com/bitcoin/bitcoin/pull/25740) ([optech](https://bitcoinops.org/en/newsletters/2023/03/15/))
 - [MuSig2 1.0.0-rc.3](https://twitter.com/blksresearch/status/1631020006883377154?s=20)
 - [cln - paying invoice w/o description](https://github.com/ElementsProject/lightning/pull/6092) ([raspiblitz patch](https://github.com/rootzoll/raspiblitz/issues/3706))
-- [Base for state machine client](https://github.com/fedimint/fedimint/pull/1621)
 
+# Fedimint
+- [New client library](https://github.com/fedimint/fedimint/pull/1621)
+- [Electrum support](https://github.com/fedimint/fedimint/pull/1363)
+- [Esplora support](https://github.com/fedimint/fedimint/pull/1735)
+- [LND support](https://github.com/fedimint/fedimint/pull/1907)
+- [fedimintd library](https://github.com/fedimint/fedimint/pull/1735)
 
 # Contracting Protocols
 - [OP_VAULT updates](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021526.html)- TLUVification and OP_CTV
