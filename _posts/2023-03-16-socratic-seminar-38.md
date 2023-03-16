@@ -23,7 +23,7 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Lightning Labs getting sued](https://www.coindesk.com/business/2023/03/16/lightning-labs-taro-project-faces-halt-as-judge-issues-temporary-injunction-for-trademark-infringement/)
 - [Ledger 2.0 support](https://unchained.com/blog/multisig-security-ledger/)
 - [Zaps](https://github.com/nostr-protocol/nips/pull/224)
-- [Robosats bug](https://twitter.com/RoboSats/status/1635432123648622593)
+- [Robosats bug](https://twitter.com/RoboSats/status/1635432123648622593) - [Possible Fix](https://github.com/Reckless-Satoshi/robosats/pull/388)
 - [Wolfpack 1](https://twitter.com/_WolfNYC/status/1636352620049694728)
 
 # Notable code changes and Proposals
