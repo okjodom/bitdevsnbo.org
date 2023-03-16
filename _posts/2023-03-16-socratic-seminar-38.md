@@ -22,7 +22,6 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Yet another core contributor announces intention to step away](https://bitcoinmagazine.com/technical/bitcoin-core-maintainer-marco-falke-to-step-down)
 - [Lightning Labs getting sued](https://www.coindesk.com/business/2023/03/16/lightning-labs-taro-project-faces-halt-as-judge-issues-temporary-injunction-for-trademark-infringement/)
 - [Ledger 2.0 support](https://unchained.com/blog/multisig-security-ledger/)
-- [Zaps](https://github.com/nostr-protocol/nips/pull/224)
 - [Robosats bug](https://twitter.com/RoboSats/status/1635432123648622593) - [Possible Fix](https://github.com/Reckless-Satoshi/robosats/pull/388)
 - [Wolfpack 1](https://twitter.com/_WolfNYC/status/1636352620049694728)
 
@@ -48,9 +47,8 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Rollkit](https://twitter.com/RollkitDev/status/1632438374513676288?s=20) - sovereign rollups on Bitcoin
   - [MEV on Bitcoin?](https://twitter.com/TheBlueMatt/status/1633599362269057024)
 
-
-
 # Lightning
+- [Zaps](https://github.com/nostr-protocol/nips/pull/224)
 - [LDK roadmap](https://twitter.com/lightningdevkit/status/1635392924463804417?s=20)
 - [Flow 2.0](https://twitter.com/gkrizek/status/1628440689456615424) ([blog post](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/))
 - [Daric](https://eprint.iacr.org/2022/1295.pdf): A storage efficient payment channel with penalization mechanism
