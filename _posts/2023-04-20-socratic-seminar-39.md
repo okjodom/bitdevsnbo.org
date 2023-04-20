@@ -19,6 +19,7 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # News
 
+- [Mutiny](https://blog.mutinywallet.com/introducing-mutiny/)
 - [Tornado Cash Dev freed](https://www.nobsbitcoin.com/tornado-cash-developer-freed/)
 
 # Contracting Protocols
