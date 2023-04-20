@@ -17,6 +17,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/svnvbtyfcgbbc/
 
 Brought to you by [Base58](https://www.base58.info/)
 
+# News
+
+- [Tornado Cash Dev freed](https://www.nobsbitcoin.com/tornado-cash-developer-freed/)
+
 # Contracting Protocols
 
 - [OP_VAULT updates](https://twitter.com/jamesob/status/1639019107432513537)- TLUVification and OP_CTV
@@ -30,16 +34,18 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # Notable code changes, proposals, and releases
 
+- [Stratum v2 Progress](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
 - [Custom signet blocktime](https://github.com/bitcoin/bitcoin/pull/27446)
 - [Don't download witnesses in prune mode](https://github.com/bitcoin/bitcoin/pull/27050)
 - [Musig2 is official](https://twitter.com/real_or_random/status/1640337134199640065)
 - [utreexo electrum server](https://twitter.com/Erik17192799/status/1640831466085990400)
 - [Civ Kit](https://raw.githubusercontent.com/civkit/paper/main/civ_kit_paper.pdf)
 
-
 # Lightning
+
 - [Blinded paths is official!](https://twitter.com/realtbast/status/1640606307924291585)
 - [Hierarchical channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003886.html)
 - [New LDK Implementation](https://github.com/kuutamolabs/lightning-knd)
+- [Eclair merges splicing](https://github.com/ACINQ/eclair/pull/2584)
 
 # Fedimint
