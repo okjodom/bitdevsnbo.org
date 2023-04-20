@@ -39,6 +39,7 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Custom signet blocktime](https://github.com/bitcoin/bitcoin/pull/27446)
 - [Don't download witnesses in prune mode](https://github.com/bitcoin/bitcoin/pull/27050)
 - [Musig2 is official](https://twitter.com/real_or_random/status/1640337134199640065)
+- [Terms BIP](https://github.com/Xekyo/bips/pull/1)
 - [utreexo electrum server](https://twitter.com/Erik17192799/status/1640831466085990400)
 - [Civ Kit](https://raw.githubusercontent.com/civkit/paper/main/civ_kit_paper.pdf)
 
