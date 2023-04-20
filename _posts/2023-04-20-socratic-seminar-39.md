@@ -50,3 +50,11 @@ Brought to you by [Base58](https://www.base58.info/)
 - [Eclair merges splicing](https://github.com/ACINQ/eclair/pull/2584)
 
 # Fedimint
+
+- [Client](https://github.com/fedimint/fedimint/pull/2109)
+    - [Mermaid diagram](https://mermaid.live/edit#pako:eNp9kE9rwzAMxb-K0K7JsRcfBmVlp0GhPS47KLbSaHXs4D_ZSul3n5ekYzCYL35Y_j096YraG0aFp0BjDy-HxkE52lKMO-5gkpAyWejEWvXQdV0VU_Bnrg3FnkKgi4INbBq3cE-BKbGBugbtXSJx4k6QPiHwO-ul8gjb1oei_yD0QZLA5zTm-dJ-4BnYL_q1wVXBgTXLVDzwTSm1plwMY26XYbaz3Uostf2PKUxkxUBrxRmIcnKUcuAIc79j1prZ3CP-osT9xz2T2DvEbhVY4cBhIDFlzdfvtwZTzyUSqiINhXODjbuVf5STP16cRpVC5grzaMpudkJloAFVRzby7QsPXZE9)
+- [Design calls](https://github.com/BitcoinDesign/Meta/issues/515)
+- [Mintgate](https://github.com/fedimint/fedimint/pull/1454)
+- [Config api](https://github.com/fedimint/fedimint/pull/2044)
+- [Mprocs](https://github.com/fedimint/fedimint/pull/2165)
+- [fedimint-bin-tests](https://github.com/fedimint/fedimint/pull/1910)
