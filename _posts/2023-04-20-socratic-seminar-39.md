@@ -34,6 +34,7 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # Notable code changes, proposals, and releases
 
+- [Libsecp256k1 0.3.1](https://github.com/bitcoin-core/secp256k1/blob/master/CHANGELOG.md)
 - [Stratum v2 Progress](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
 - [Custom signet blocktime](https://github.com/bitcoin/bitcoin/pull/27446)
 - [Don't download witnesses in prune mode](https://github.com/bitcoin/bitcoin/pull/27050)
