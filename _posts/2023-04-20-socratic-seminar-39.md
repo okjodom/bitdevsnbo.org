@@ -10,7 +10,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/svnvbtyfcgbbc/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
+- [bitcoinplusplus](https://btcplusplus.dev)
 
 # Regular Installment of Bitcoin Trivia!
 [Austin Bitdevs Trivia Question #5](https://twitter.com/base58btc/status/1649178374127091713?s=46&t=WMmqJ4MdyeBHjVDNEbJ-rg)
