@@ -19,6 +19,7 @@ Brought to you by [Base58](https://www.base58.info/)
 
 # News
 
+- [Unchained](https://bitcoinmagazine.com/business/unchained-announces-60m-series-b-fundraising-round)
 - [Mutiny](https://blog.mutinywallet.com/introducing-mutiny/)
 - [Tornado Cash Dev freed](https://www.nobsbitcoin.com/tornado-cash-developer-freed/)
 
