@@ -30,10 +30,10 @@ Brought to you by [Base58](https://www.base58.school/)
 # Projects
 
 - [Munstr](https://github.com/0xBEEFCAF3/munstr)
-- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 - [Mostro](https://github.com/MostroP2P/mostro)
 - [BitResolve](https://github.com/BitResolve/Bounty-Adjudication-System) for FOSS funding dispute resolution
 - [Breaker of jpegs](https://github.com/supertestnet/breaker-of-jpegs)
+- [zkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
 
 # Contracting Protocols
 
@@ -45,10 +45,10 @@ Brought to you by [Base58](https://www.base58.school/)
 - [Screens are not a panacea (bitkey)](https://bitkey.build/screens-are-not-a-panacea/)
 - [Ledger Recover](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/) [Security implications (a thread)](https://twitter.com/P3b7_/status/1659187685444005890?s=20)
 
-# Research
+# Mempool
+- [Allow non-standard txs](https://github.com/bitcoin/bitcoin/pull/27578)
 - [Reinventing the mempool](https://github.com/bitcoin/bitcoin/issues/27677)
-- [zkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
-
+- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 
 # Notable code changes, proposals, and releases
 - [Bitcoin Core pool based memory](https://github.com/bitcoin/bitcoin/pull/25325)
