@@ -30,6 +30,8 @@ Brought to you by [Base58](https://www.base58.school/)
 
 # Projects
 
+- [Munstr](https://github.com/0xBEEFCAF3/munstr)
+- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 - [Mostro](https://github.com/MostroP2P/mostro)
 - [BitResolve](https://github.com/BitResolve/Bounty-Adjudication-System) for FOSS funding dispute resolution
 - [Breaker of jpegs](https://github.com/supertestnet/breaker-of-jpegs)
@@ -50,5 +52,4 @@ Brought to you by [Base58](https://www.base58.school/)
 - [Bitcoin Core pool based memory](https://github.com/bitcoin/bitcoin/pull/25325)
 - [Bitcoin Core CPU usage bug fix](https://github.com/bitcoin/bitcoin/issues/27623)
 - [Reenable minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/26933)
-- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 
