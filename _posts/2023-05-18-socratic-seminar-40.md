@@ -25,9 +25,12 @@ Brought to you by [Base58](https://www.base58.school/)
 
 - [Binance working on lightning withdrawal support after halting BTC withdrawals](https://twitter.com/binance/status/1655419624962527233?s=20)
 - [Waiting for confirmation](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
+- [Marathon donating up to $1M to brink](https://www.nobsbitcoin.com/brink-marathon-partnership/)
 
 # Projects
 
+- [Munstr](https://github.com/0xBEEFCAF3/munstr)
+- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 - [Mostro](https://github.com/MostroP2P/mostro)
 - [BitResolve](https://github.com/BitResolve/Bounty-Adjudication-System) for FOSS funding dispute resolution
 - [Breaker of jpegs](https://github.com/supertestnet/breaker-of-jpegs)
