@@ -24,6 +24,7 @@ Brought to you by [Base58](https://www.base58.school/)
 # News
 
 - [Ledger miniscript vulnerability](https://wizardsardine.com/blog/ledger-vulnerability-disclosure/)
+- [Spiral hiring bitcoin wizards](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021589.html)
 - [Binance working on lightning withdrawal support after halting BTC withdrawals](https://twitter.com/binance/status/1655419624962527233?s=20)
 - [Waiting for confirmation](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 
@@ -46,6 +47,8 @@ Brought to you by [Base58](https://www.base58.school/)
 
 
 # Notable code changes, proposals, and releases
+- [Bitcoin Core pool based memory](https://github.com/bitcoin/bitcoin/pull/25325)
 - [Bitcoin Core CPU usage bug fix](https://github.com/bitcoin/bitcoin/issues/27623)
 - [Reenable minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/26933)
+- [Nostr bitcoin tx package relay](https://twitter.com/joostjgr/status/1658487013237211155?s=12)
 
