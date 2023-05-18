@@ -10,7 +10,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/svnvbtyfchbxb/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Spiral hiring bitcoin wizards](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021549.html)
+- [Spiral hiring bitcoin wizards](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021589.html)
 
 
 # Regular Installment of Bitcoin Trivia!
@@ -24,7 +24,6 @@ Brought to you by [Base58](https://www.base58.school/)
 # News
 
 - [Ledger miniscript vulnerability](https://wizardsardine.com/blog/ledger-vulnerability-disclosure/)
-- [Spiral hiring bitcoin wizards](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021589.html)
 - [Binance working on lightning withdrawal support after halting BTC withdrawals](https://twitter.com/binance/status/1655419624962527233?s=20)
 - [Waiting for confirmation](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 
