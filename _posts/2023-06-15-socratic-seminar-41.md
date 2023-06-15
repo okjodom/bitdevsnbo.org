@@ -26,6 +26,7 @@ Brought to you by [Base58](https://www.base58.school/)
 - [Apple doesn't like zaps](https://twitter.com/damusapp/status/1668529709867495424)
 - [Bitkey beta](https://bitkey.build/beta/)
 - [Mempool.space tx accelerator](https://nitter.at/mempool/status/1659619347910803466)
+- [1 million zaps](https://stats.nostr.band/#total_zaps)
 - [Ark](https://www.arkpill.me/)
 
 # Research
