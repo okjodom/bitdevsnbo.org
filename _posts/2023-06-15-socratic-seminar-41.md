@@ -14,7 +14,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/svnvbtyfcjbtb/
 
 
 # Regular Installment of Bitcoin Trivia!
-[Austin Bitdevs Trivia Question #7]()... Coming soon
+[Austin Bitdevs Trivia Question #7](https://twitter.com/base58btc/status/1669480009432551425)
 
 Brought to you by [Base58](https://www.base58.school/)
 - [Mempool Masterclass](https://base58.school/classes/mempool-masterclass) (June)
@@ -44,6 +44,11 @@ Brought to you by [Base58](https://www.base58.school/)
 - [Altpay - CLN plugin](https://github.com/ffaex/altpay)
 - [Sigops in getblocktemplate](https://github.com/bitcoin/bitcoin/pull/27433)
 - [BIP 340 updates](https://github.com/bitcoin/bips/pull/1446)
+
+# Privacy
+
+- [Silent Payments BIP](https://github.com/bitcoin/bips/pull/1458)
+- [Silent Payments PR](https://github.com/bitcoin/bitcoin/pull/27827)
 
 # Gossip
 
