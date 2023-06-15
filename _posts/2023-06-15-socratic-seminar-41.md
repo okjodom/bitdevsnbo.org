@@ -23,9 +23,11 @@ Brought to you by [Base58](https://www.base58.school/)
 
 # News
 
+- [Brink gets $5m from Jack](https://twitter.com/bitcoinbrink/status/1669012369727537152)
 - [Apple doesn't like zaps](https://twitter.com/damusapp/status/1668529709867495424)
 - [Bitkey beta](https://bitkey.build/beta/)
 - [Mempool.space tx accelerator](https://nitter.at/mempool/status/1659619347910803466)
+- [Binance tx accelerator](https://twitter.com/binance/status/1669313954097537025)
 - [1 million zaps](https://stats.nostr.band/#total_zaps)
 - [Ark](https://www.arkpill.me/)
 
