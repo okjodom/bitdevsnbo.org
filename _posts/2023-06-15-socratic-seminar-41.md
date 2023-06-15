@@ -44,6 +44,7 @@ Brought to you by [Base58](https://www.base58.school/)
 - [Altpay - CLN plugin](https://github.com/ffaex/altpay)
 - [Sigops in getblocktemplate](https://github.com/bitcoin/bitcoin/pull/27433)
 - [BIP 340 updates](https://github.com/bitcoin/bips/pull/1446)
+- [Lightning + AI](https://twitter.com/olliethedev/status/1669458351904772098?s=20)
 
 # Privacy
 
