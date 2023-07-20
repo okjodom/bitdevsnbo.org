@@ -15,7 +15,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819751/
 
 
 # Semi-Regular Installment of Bitcoin Trivia!
-[Austin Bitdevs Trivia Question #8]()
+[Austin Bitdevs Trivia Question #8](https://twitter.com/base58btc/status/1682169207700504576)
 
 Brought to you by [Base58](https://base58.school/)
 - ~~[Mempool Masterclass](https://base58.school/classes/mempool-masterclass) (June)~~
