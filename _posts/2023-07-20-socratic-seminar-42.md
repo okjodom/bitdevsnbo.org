@@ -42,6 +42,7 @@ Brought to you by [Base58](https://base58.school/)
 - [12 words the standard](https://foundationdevices.com/2023/06/make-12-words-the-standard/)
 - [LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
 - [VLS Beta](https://vls.tech/posts/vls-beta/)
+- [Frostsnap](https://frostsnap.com/introducing-frostsnap.html)
 
 # Research
 - [BIP32 colors](https://enteropositivo.github.io/bip39colors/#biptocolors)
