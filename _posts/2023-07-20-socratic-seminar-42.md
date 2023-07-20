@@ -34,6 +34,7 @@ Brought to you by [Base58](https://base58.school/)
 - [ACINQ securing $100M Node](https://acinq.co/blog/securing-a-100M-lightning-node)
 - [AI4ALL](https://bolt.fun/tournaments/ai4all)
   - [prizes](https://twitter.com/kodylow/status/1682098392758099968)
+- [bitpac](https://bitpac.org)
 
 # Notable code changes, proposals, and releases
 
