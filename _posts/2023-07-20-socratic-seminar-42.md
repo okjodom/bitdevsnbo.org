@@ -24,6 +24,7 @@ Brought to you by [Base58](https://base58.school/)
 
 # News
 
+- [PlebLabs Nostr Dev Course](https://twitter.com/PlebLab/status/1681657465119682561)
 - [Spiral hires first Bitcoin Wizard](https://twitter.com/spiralbtc/status/1681718510068592678) 🧙
 - [bitcoin magic beans](https://twitter.com/bitnorbert/status/1681774472968241154)
 - [Mutiny Wallet Open Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
