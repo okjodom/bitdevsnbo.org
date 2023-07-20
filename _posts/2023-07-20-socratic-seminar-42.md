@@ -11,6 +11,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819751/
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Spiral hiring bitcoin wizards](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021589.html)
+- [Generation Bitcoin](https://twitter.com/GenBitcoiners) & [D++](https://twitter.com/D_plus__plus) present the [Bitcoin Summer Bootcamp](https://www.genbitcoin.org/workshops) for high school & college students
 
 
 # Semi-Regular Installment of Bitcoin Trivia!
