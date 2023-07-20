@@ -16,10 +16,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819751/
 # Semi-Regular Installment of Bitcoin Trivia!
 [Austin Bitdevs Trivia Question #8]()
 
-Brought to you by [Base58](https://www.base58.school/)
+Brought to you by [Base58](https://base58.school/)
 - ~~[Mempool Masterclass](https://base58.school/classes/mempool-masterclass) (June)~~
 - [Lightning Class](https://base58.school/classes/lightning-bolts) (August)
-- Taproot class (TBD - September)
+- [Taproot Class](https://base58.school/classes/taproot) (September)
 
 # News
 
