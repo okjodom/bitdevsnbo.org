@@ -30,7 +30,6 @@ Brought to you by [Base58](https://base58.school/)
 - [Mutiny Wallet Open Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
 - [ZapplePay](https://www.zapplepay.com/)
 - [OpenSats Grants!](https://opensats.org/blog/bitcoin-grants-july-2023)
-
 - [Splicing in Phoenix](https://acinq.co/blog/phoenix-splicing-update)
 - [ACINQ securing $100M Node](https://acinq.co/blog/securing-a-100M-lightning-node)
 
@@ -43,6 +42,8 @@ Brought to you by [Base58](https://base58.school/)
 - [LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
 - [VLS Beta](https://vls.tech/posts/vls-beta/)
 - [Frostsnap](https://frostsnap.com/introducing-frostsnap.html)
+- [mutinynet deployments](https://github.com/fedimint/fedimint/tree/master/docker)
+- [admin uis](https://github.com/fedimint/ui)
 
 # Research
 - [BIP32 colors](https://enteropositivo.github.io/bip39colors/#biptocolors)
@@ -52,3 +53,5 @@ Brought to you by [Base58](https://base58.school/)
 - [Parallel block processing](https://twitter.com/jratcliff/status/1679986272595582979?s=46&t=AmUC5uHhY1vk6-w6a_RJwg)
 - [Waiting for confirmation: Policy proposals](https://bitcoinops.org/en/blog/waiting-for-confirmation/#policy-proposals)
 - [Manually calculate a public key on paper](https://bitcoin.stackexchange.com/questions/118933/how-can-i-manually-on-paper-calculate-a-bitcoin-public-key-from-a-private-key/118939#118939)
+- [carol](https://github.com/carol-computer/carol)
+
