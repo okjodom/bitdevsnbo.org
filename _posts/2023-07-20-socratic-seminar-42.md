@@ -30,13 +30,17 @@ Brought to you by [Base58](https://base58.school/)
 - [ZapplePay](https://www.zapplepay.com/)
 - [OpenSats Grants!](https://opensats.org/blog/bitcoin-grants-july-2023)
 
+- [Splicing in Phoenix](https://acinq.co/blog/phoenix-splicing-update)
+- [ACINQ securing $100M Node](https://acinq.co/blog/securing-a-100M-lightning-node)
 
 # Notable code changes, proposals, and releases
 
 - [Restrict self-advertisements to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
 - [BOLT feature cleanup](https://github.com/lightning/bolts/pull/1092)
 - [L402 bLIP](https://github.com/lightning/blips/pull/26)
-
+- [12 words the standard](https://foundationdevices.com/2023/06/make-12-words-the-standard/)
+- [LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
+- [VLS Beta](https://vls.tech/posts/vls-beta/)
 
 # Research
 - [BIP32 colors](https://enteropositivo.github.io/bip39colors/#biptocolors)
