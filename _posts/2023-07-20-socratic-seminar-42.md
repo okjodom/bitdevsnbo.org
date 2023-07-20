@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 41"
+title: "Socratic 42"
 meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819751/
 ---
 
@@ -28,6 +28,7 @@ Brought to you by [Base58](https://base58.school/)
 - [bitcoin magic beans](https://twitter.com/bitnorbert/status/1681774472968241154)
 - [Mutiny Wallet Open Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
 - [ZapplePay](https://www.zapplepay.com/)
+- [OpenSats Grants!](https://opensats.org/blog/bitcoin-grants-july-2023)
 
 
 # Notable code changes, proposals, and releases
