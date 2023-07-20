@@ -32,6 +32,8 @@ Brought to you by [Base58](https://base58.school/)
 - [OpenSats Grants!](https://opensats.org/blog/bitcoin-grants-july-2023)
 - [Splicing in Phoenix](https://acinq.co/blog/phoenix-splicing-update)
 - [ACINQ securing $100M Node](https://acinq.co/blog/securing-a-100M-lightning-node)
+- [AI4ALL](https://bolt.fun/tournaments/ai4all)
+  - [prizes](https://twitter.com/kodylow/status/1682098392758099968)
 
 # Notable code changes, proposals, and releases
 
