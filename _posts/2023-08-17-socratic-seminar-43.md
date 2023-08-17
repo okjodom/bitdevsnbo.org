@@ -26,8 +26,18 @@ Brought to you by [Base58](https://base58.school/)
 - [Milk Sad](https://milksad.info/)
 - [Lightning is scaling in a way no one predicted](https://blog.bitfinex.com/education/is-lightning-scaling-bitcoin-in-a-way-nobody-predicted/)
 - [How Voltage makes Mutiny private](https://blog.mutinywallet.com/enhanced-lightning-privacy-for-mutiny-users/)
+- [ChatBTC](https://chat.bitcoinsearch.xyz/)
 
 - [Jamesob Thoughts on scaling and consensus changes](https://delvingbitcoin.org/t/thoughts-on-scaling-and-consensus-changes-2023/32)
+- [AI4ALL](https://www.nobsbitcoin.com/ai4all-hackathon-2023/)
+    - [Data vending machine](https://github.com/nostr-protocol/nips/blob/vending-machine/90.md)
+- [HRF bounties](https://hrfbounties.org/)
+- [Bulletproofs++](https://blog.blockstream.com/bulletproofs-a-step-towards-fully-anonymous-transactions-with-multiple-asset-types/)
+- [closing protocol](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004013.html)
+
+- [Musig at bitgo](https://blog.bitgo.com/save-fees-with-musig2-at-bitgo-3248d690f573)
+- [blind musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021792.html)
+- [credit-based ecash](https://gist.github.com/moonsettler/42b588fa97a1da3ac0adea0dd16dadf2)
 
 # Notable code changes, proposals, and releases
 
