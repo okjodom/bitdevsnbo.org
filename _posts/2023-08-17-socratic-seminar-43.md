@@ -28,6 +28,9 @@ Brought to you by [Base58](https://base58.school/)
 - [How Voltage makes Mutiny private](https://blog.mutinywallet.com/enhanced-lightning-privacy-for-mutiny-users/)
 - [ChatBTC](https://chat.bitcoinsearch.xyz/)
 
+- [Chainalysis admits they suck](https://www.coindesk.com/consensus-magazine/2023/07/24/chainalysis-investigations-lead-is-unaware-of-scientific-evidence-the-surveillance-software-works/)
+- [Liquid more open source](https://blog.liquid.net/expanding-transparency-the-liquid-networks-functionary-code-is-now-open-source/)
+
 - [Jamesob Thoughts on scaling and consensus changes](https://delvingbitcoin.org/t/thoughts-on-scaling-and-consensus-changes-2023/32)
 - [AI4ALL](https://www.nobsbitcoin.com/ai4all-hackathon-2023/)
     - [Data vending machine](https://github.com/nostr-protocol/nips/blob/vending-machine/90.md)
@@ -44,13 +47,18 @@ Brought to you by [Base58](https://base58.school/)
 - [Jamesob co-author of CTV](https://github.com/bitcoin/bips/pull/1482)
 - [Splicing in CLN](https://github.com/ElementsProject/lightning/pull/6253)
 - [rustreexo](https://github.com/mit-dci/rustreexo/releases)
+- [LSP Spec in Mutiny](https://github.com/MutinyWallet/mutiny-node/pull/718)
+- [Payjoin V2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021868.html)
+- [Ldk v0.0.116](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.116)
 
 # Bitcoin Core
 
 - [Full RBF by default](https://github.com/bitcoin/bitcoin/pull/28132)
 - [Remove OP_RETURN size limit](https://github.com/bitcoin/bitcoin/pull/28130)
 - [New coin selection algo](https://github.com/bitcoin/bitcoin/pull/27877)
+- [BIP 324 crypto merged](https://github.com/bitcoin/bitcoin/pull/28008)
 
 # Research
 
-
+- [Full RBF at 31% hash rate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021890.html)
+- [Steal passwords through sound](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
