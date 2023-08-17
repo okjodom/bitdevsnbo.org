@@ -13,7 +13,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819753/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-[Austin Bitdevs Trivia Question #9](https://twitter.com/base58btc/status/1682169207700504576)
+[Austin Bitdevs Trivia Question #9](https://twitter.com/base58btc/status/1692320146600194072)
 
 Brought to you by [Base58](https://base58.school/)
 
