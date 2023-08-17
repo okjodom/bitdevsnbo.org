@@ -37,6 +37,7 @@ Brought to you by [Base58](https://base58.school/)
 - [HRF bounties](https://hrfbounties.org/)
 - [Bulletproofs++](https://blog.blockstream.com/bulletproofs-a-step-towards-fully-anonymous-transactions-with-multiple-asset-types/)
 - [closing protocol](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004013.html)
+- [coinbase asked to only trade bitcoin](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 
 - [Musig at bitgo](https://blog.bitgo.com/save-fees-with-musig2-at-bitgo-3248d690f573)
 - [blind musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021792.html)
