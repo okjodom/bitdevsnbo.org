@@ -50,6 +50,7 @@ Brought to you by [Base58](https://base58.school/)
 - [LSP Spec in Mutiny](https://github.com/MutinyWallet/mutiny-node/pull/718)
 - [Payjoin V2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021868.html)
 - [Ldk v0.0.116](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.116)
+- [Lnd almost taproot channels](https://github.com/orgs/lightningnetwork/projects/4/views/1?query=is%3Aopen+sort%3Aupdated-desc)
 
 # Bitcoin Core
 
