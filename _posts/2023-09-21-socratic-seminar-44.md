@@ -29,7 +29,7 @@ Brought to you by [Base58](https://base58.school/)
 # Notable code changes, proposals, and releases
 
 - [UTXO Dealership](https://github.com/supertestnet/utxo-dealership)
-- [OP_VAULT Demo](https://github.com/jamesob/opvault-demo)
+- [OP_VAULT Demo](https://github.com/jamesob/opvault-demo) (and [video](https://www.youtube.com/watch?v=7Zwm5iHFyBQ))
 - [ZeroSync Headers Sync](https://twitter.com/roasbeef/status/1700598667546419552)
 - [Replacement for APO + CTV](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021907.html)
 - [Private Collab Custody](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/)
