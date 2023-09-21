@@ -43,7 +43,7 @@ Brought to you by [Base58](https://base58.school/)
 # Lightning
 
 - [Practical PTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004088.html)
-- [Lexe.app][https://lexe.app/]
+- [Lexe.app](https://lexe.app/)
 - [LDK can pay Bolt 12s](https://github.com/lightningdevkit/rust-lightning/pull/2371)
 - [LDK Watch Towers](https://github.com/lightningdevkit/rust-lightning/pull/2337)
 - [Fake LN Channel DOS](https://morehouse.github.io/lightning/fake-channel-dos/)
@@ -51,6 +51,8 @@ Brought to you by [Base58](https://base58.school/)
 - [Scaling lighting](https://github.com/scaling-lightning/scaling-lightning)
 - [SimLN](https://opensats.org/blog/bitcoin-infrastructure-this-decade)
 
-# Bitcoin Core
+# Bitcoin
 
+- [Incentive for P2TR](https://bitcoin.stackexchange.com/questions/119301/is-there-an-economic-incentive-to-switch-from-p2wpkh-to-p2tr)
+- [Is there a last block](https://bitcoin.stackexchange.com/questions/119223/is-there-a-well-defined-last-block)
 - [BIP 324 Connection Support](https://github.com/bitcoin/bitcoin/pull/28196)
