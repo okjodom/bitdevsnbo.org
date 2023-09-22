@@ -39,6 +39,7 @@ Brought to you by [Base58](https://base58.school/)
 - [Remove Payment Hash Check in LNURL](https://github.com/lnurl/luds/pull/234)
 - [Adaptor Signatures!](https://twitter.com/n1ckler/status/1693650163774963946)
 - [Fedimint 0.1.0](https://github.com/fedimint/fedimint/releases/tag/v0.1.0)
+- [UTXOracle](https://twitter.com/SteveSimple/status/1704864674431332503)
 
 # Lightning
 
