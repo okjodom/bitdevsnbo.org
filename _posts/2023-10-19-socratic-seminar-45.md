@@ -35,6 +35,7 @@ Brought to you by [Base58](https://base58.school/)
 - [LND v0.17.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta)
 - [LDK 0.0.117](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.117)
 - [Replacement Cycling CVE](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004122.html)
+- [Batch exchange withdrawal to lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004127.html)
 
 # Bitcoin
 
