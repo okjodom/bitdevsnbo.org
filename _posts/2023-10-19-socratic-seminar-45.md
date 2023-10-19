@@ -58,3 +58,7 @@ Brought to you by [Base58](https://base58.school/)
 # Ordinals
 
 - [Rijndael trolling mints](https://twitter.com/rot13maxi/status/1709011253350334887)
+
+# Taproot Assets
+
+- [Taproot assets mainnet](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
