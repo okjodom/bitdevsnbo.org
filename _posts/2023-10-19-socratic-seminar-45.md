@@ -40,6 +40,8 @@ Brought to you by [Base58](https://base58.school/)
 - [LDK 0.0.117](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.117)
 - [Replacement Cycling CVE](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004122.html)
 - [Batch exchange withdrawal to lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004127.html)
+- [River lightning report](https://river.com/learn/files/river-lightning-report-2023.pdf)
+- [Greenlight open for business](https://blog.blockstream.com/greenlight-is-now-open-for-business/)
 
 # Bitcoin
 
