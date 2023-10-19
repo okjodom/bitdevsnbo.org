@@ -23,11 +23,15 @@ Brought to you by [Base58](https://base58.school/)
 # News
 
 - [MARA mines invalid block](https://b10c.me/observations/07-invalid-block-809478/)
-- [Covtools Softfork Proposed](https://github.com/bitcoin/bitcoin/pull/28550)
 - [BitVM](https://bitvm.org/bitvm.pdf)
   - [Mononaut adds 2 numbers](https://twitter.com/mononautical/status/1713291840638599206?s=46)
   - [Scriptless BitVM](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/021997.html)
 
+# Covenants
+
+- [Evolving Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022030.html)
+- [OP_TXHASH BIP](https://github.com/bitcoin/bips/pull/1500)
+- [Covtools Softfork Proposed](https://github.com/bitcoin/bitcoin/pull/28550)
 
 # Lightning
 
@@ -41,6 +45,7 @@ Brought to you by [Base58](https://base58.school/)
 
 - [Assume UTXO merged!](https://github.com/bitcoin/bitcoin/pull/27596)
 - [BIP 324 Merged!](https://github.com/bitcoin/bitcoin/pull/28331)
+- [Submit Package RPC](https://github.com/bitcoin/bitcoin/pull/27609)
 - [Coredev Transcripts](https://github.com/bitcointranscripts/bitcointranscripts/tree/master/bitcoin-core-dev-tech/2023-09)
 - [Wallet Fingerprinting](https://ishaana.com/blog/wallet_fingerprinting/)
   - [Tool for spoofing](https://gitlab.com/-/snippets/3611229)
