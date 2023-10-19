@@ -31,7 +31,7 @@ Brought to you by [Base58](https://base58.school/)
 
 # Lightning
 
-- [Mutiny Fixes payment reliability](https://github.com/bitcointranscripts/bitcointranscripts/tree/master/bitcoin-core-dev-tech/2023-09)
+- [Mutiny Fixes payment reliability](https://blog.mutinywallet.com/fixing-payment-reliability)
 - [LND v0.17.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta)
 - [LDK 0.0.117](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.117)
 - [Replacement Cycling CVE](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004122.html)
