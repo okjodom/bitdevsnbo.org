@@ -26,10 +26,12 @@ Brought to you by [Base58](https://base58.school/)
 - [Hal Finney was not Satoshi](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
 - [Tapsigner 2fa](https://blog.coinkite.com/tapsigner-for-2fa/)
 - [RIP Mailing list](https://twitter.com/kanzure/status/1720083660815376832)
-  - https://twitter.com/kanzure/status/1721915515520659510
-  - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html
+  - [https://twitter.com/kanzure/status/1721915515520659510](https://twitter.com/kanzure/status/1721915515520659510)
+  - [https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html](https://twitter.com/kanzure/status/1721915515520659510)
 - [BitcoinJs Vulnerability](https://twitter.com/bax1337/status/1724534339206033532)
 - [Opcode Explained](https://opcodeexplained.com/)
+- [Rijndael trolling mints](https://twitter.com/rot13maxi/status/1709011253350334887)
+  - [Sophon out of gas](https://x.com/rot13maxi/status/1717906593050767629?s=20)
 
 # Covenants
 
