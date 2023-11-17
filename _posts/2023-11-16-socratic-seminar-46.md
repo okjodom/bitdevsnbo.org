@@ -40,7 +40,7 @@ Brought to you by [Base58](https://base58.school/)
 
 # Lightning
 
-- [Covenats fix replacement cycling](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022093.html)
+- [Covenants fix replacement cycling](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022093.html)
 - [Lnd v0.17.1](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.1-beta)
 - [Ldk 0.0.118](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.118)
 - [Zeus Pay](https://blog.zeusln.com/zeus-v0-8-0-open-beta/)
