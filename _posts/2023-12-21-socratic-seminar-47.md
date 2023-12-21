@@ -28,3 +28,9 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819766/
 # Lightning
 
 - [Warnet](https://github.com/bitcoin-dev-project/warnet)
+- [lightning vs rollups](https://lightco.in/2023/12/13/lightning-validia-rollups/)
+
+# Covenants
+
+- [Ark developer hub](https://arkdev.info/)
+- [UASF talk](https://x.com/4moonsettler/status/1737113171582980413?s=20)
