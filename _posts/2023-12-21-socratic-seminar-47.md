@@ -7,6 +7,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819766/
 
 # Announcements
 
+- [Warren wants to extend BSA to bitcoin](https://www.nobsbitcoin.com/elizabeth-warren-wants-bank-secrecy/)
 
 # Bitcoin
 
@@ -14,8 +15,11 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819766/
 - [payjoin-cli](https://github.com/payjoin/rust-payjoin/tree/master/payjoin-cli)
 - [cluster mempool](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
 - [psbt ordinal trading](https://x.com/mononautical/status/1734999756789739949?s=20)
-- [ledger exploit](https://x.com/bantg/status/1735279127752540465?s=20)
+- [ledger exploit](https://www.nobsbitcoin.com/ledger-connect-kit-exploited/)
 - [bitcoin core 26.0](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-26.0.md)
+- [cold wallet hack](https://www.nobsbitcoin.com/83-btc-fee-cold-wallet-hack/)
+    - [antpool returns it](https://www.nobsbitcoin.com/antpool-to-return-83-btc-fee/)
+- [River link](https://www.nobsbitcoin.com/river-link-launched/)
 
 # Mining
 
@@ -29,6 +33,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/290819766/
 
 - [Warnet](https://github.com/bitcoin-dev-project/warnet)
 - [lightning vs rollups](https://lightco.in/2023/12/13/lightning-validia-rollups/)
+- [WOS stops serving US customers](https://www.nobsbitcoin.com/wallet-of-satoshi-stops-serving-us-customers/)
 
 # Covenants
 
