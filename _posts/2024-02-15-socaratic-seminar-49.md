@@ -33,3 +33,5 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 - [v3 transaction upgrade paths](https://delvingbitcoin.org/t/v3-and-some-possible-futures/523)
 - [btcd consensus bug](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version/455/2)
 - [BIP: Payment info in DNS](https://github.com/bitcoin/bips/pull/1551)
+- [Block stalling bug](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
+- [0-conf channels and v3 anchors](https://delvingbitcoin.org/t/0conf-ln-channels-and-v3-anchors/494)
