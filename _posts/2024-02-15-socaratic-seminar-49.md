@@ -19,6 +19,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 - [Bitcoin Takeover 2025](https://www.eventbrite.com/e/bitcoin-takeover-2024-austin-tx-tickets-829036399187)
 - [Summer of Bitcoin](https://twitter.com/summerofbitcoin/status/1753414874045329505?s=20)
 - [New bitcoin dev mailing list](https://twitter.com/kanzure/status/1756055826723217659)
+- [btc++](https://btcplusplus.dev/conf/atx24)
 
 # Topics
 - [Coffee transaction](https://twitter.com/KeithMukai/status/1753178714441941392)
@@ -37,3 +38,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 - [0-conf channels and v3 anchors](https://delvingbitcoin.org/t/0conf-ln-channels-and-v3-anchors/494)
 - [purrfect vault](https://github.com/taproot-wizards/purrfect_vault)
 - [segwit malleability](https://bitcoinops.org/en/newsletters/2024/02/07/#requirement-to-verify-inputs-use-segwit-in-protocols-vulnerable-to-txid-malleability)
+- [mercury layer](https://mercurylayer.com/)
