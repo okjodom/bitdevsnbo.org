@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 48"
+title: "Socratic 49"
 meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 ---
 
@@ -36,3 +36,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 - [Block stalling bug](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
 - [0-conf channels and v3 anchors](https://delvingbitcoin.org/t/0conf-ln-channels-and-v3-anchors/494)
 - [purrfect vault](https://github.com/taproot-wizards/purrfect_vault)
+- [segwit malleability](https://bitcoinops.org/en/newsletters/2024/02/07/#requirement-to-verify-inputs-use-segwit-in-protocols-vulnerable-to-txid-malleability)
