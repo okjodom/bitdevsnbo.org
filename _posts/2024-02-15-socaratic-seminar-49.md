@@ -35,3 +35,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/292208606/
 - [BIP: Payment info in DNS](https://github.com/bitcoin/bips/pull/1551)
 - [Block stalling bug](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
 - [0-conf channels and v3 anchors](https://delvingbitcoin.org/t/0conf-ln-channels-and-v3-anchors/494)
+- [purrfect vault](https://github.com/taproot-wizards/purrfect_vault)
