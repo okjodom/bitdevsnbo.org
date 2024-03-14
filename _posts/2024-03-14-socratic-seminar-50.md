@@ -39,3 +39,5 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/296945954/
 - [Scalable and Permissionless Bitcoin CA](https://delvingbitcoin.org/t/scalable-permissionless-bitcoin-ca/596)
   - [Spaces Protocol](https://spacesprotocol.org/)
 - [mercury layer](https://mercurylayer.com/)
+- [TwoTwenty HWW](https://x.com/afilini/status/1766085500106920268)
+  - [source code](https://github.com/TwentyTwoHW/portal-software)
