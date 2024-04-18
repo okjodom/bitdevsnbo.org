@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/297773386/
 # Topics
 
 - [halvening](https://www.cnbc.com/2024/04/17/bitcoin-halving-what-is-it-and-what-does-it-mean-for-crypto-prices.html)
+- [runes](https://bitcoinmagazine.com/technical/rodarmor-returns-announces-runes-protocol-to-compete-with-brc-20)
 - [gofetch](https://gofetch.fail/)
 - [xz backdoor](https://twitter.com/kdrag0n/status/1773950974480314574)
 - [Pheonix Server](https://twitter.com/PhoenixWallet/status/1771236080680841668)
