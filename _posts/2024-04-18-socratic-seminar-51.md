@@ -32,6 +32,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/297773386/
 - [LND + bitcoind upgrade problems](https://twitter.com/roasbeef/status/1781086945986404559)
 - [Stop calling it MEV](https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/)
 - [Spectre of MEV](https://cyber.fund/content/the-spectre-of-mev-on-bitcoin)
+- [BBQr](https://bbqr.org/)
 - [StratumV2 release](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [ViaBTC Vulnerability](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
 - [2nd look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks/805)
