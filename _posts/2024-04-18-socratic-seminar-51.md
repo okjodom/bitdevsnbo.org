@@ -35,6 +35,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/297773386/
 - [BBQr](https://bbqr.org/)
 - [StratumV2 release](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [ViaBTC Vulnerability](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
+- [coinbase + lightspark](https://www.lightspark.com/news/coinbase-selects-lightspark)
 - [2nd look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks/805)
 - [2nd look at Great Consensus Cleanup](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
 - [Hedgehog](https://github.com/supertestnet/hedgehog)
