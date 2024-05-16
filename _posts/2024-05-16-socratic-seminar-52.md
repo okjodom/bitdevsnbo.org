@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/297773387/
 - [Script Restoration](https://twitter.com/rusty_twit/status/1787198698851877011) ([BIP](https://github.com/rustyrussell/bips/blob/c2f268e83031b9b67e798c5c72a1171bfc463d1f/bip-unknown-var-budget-script.mediawiki))
 - [Ark on Liquid](https://github.com/ark-network/ark)
 - [Anonymous Usage Tokens](https://delvingbitcoin.org/t/anonymous-usage-tokens-from-curve-trees-or-autct/862), Proof of Concept: [Hodlboard](https://hodlboard.org/)
+- [New BIP editors](https://www.nobsbitcoin.com/five-new-editors-added-to-bitcoin-improvement-proposals/)
 - [BIP-388 Wallet Policies](https://github.com/bitcoin/bips/pull/1389#event-12743501684)
 - [Taproot Assets on LN](https://twitter.com/roasbeef/status/1788624974728790471)
 - [p2p: opportunistically accept 1-parent-1-child packages](https://github.com/bitcoin/bitcoin/pull/28970)
