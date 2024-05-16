@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/297773387/
 - [Taproot Assets on LN](https://twitter.com/roasbeef/status/1788624974728790471)
 - [p2p: opportunistically accept 1-parent-1-child packages](https://github.com/bitcoin/bitcoin/pull/28970)
 - [Knots filtering locktime of 21](https://twitter.com/1440000bytes/status/1790245869700165684)
+- [Exploding Keys (Covenant Construction)](https://delvingbitcoin.org/t/exploding-keys-covenant-construction/832)
 - [Ecash Mining pool](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870)
 - [Silentium Wallet](https://twitter.com/TheSingerLouis/status/1790824126472667227)
 - [Mutiny Blind Auth](https://blog.mutinywallet.com/blinded-authentication/)
