@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/298579758/
 - [New BIP editors](https://www.nobsbitcoin.com/five-new-editors-added-to-bitcoin-improvement-proposals/)
 - [Ark Open sourced](https://github.com/ark-network/)
 - [Ark v2](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b)
+- [Real life tx pinning](https://primal.net/e/note132dpsvrxfwha7c408d37t76r6qvslygg5kwgal7taj8feyawjwxq5mn6p4)
 - [AI LN routing](https://arxiv.org/pdf/2405.12087)
 - [Taproot Assets on LN](https://twitter.com/roasbeef/status/1788624974728790471)
 - [Lnd dos](https://morehouse.github.io/lightning/lnd-onion-bomb/)
