@@ -32,4 +32,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/298761006/
 - [Distributed Key Generation in FROST](https://x.com/n1ckler/status/1810408548813213820)
 - [Quantum BIP](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki)
 - [Bitcoin Security Disclosures <v0.21.0](https://bitcoincore.org/en/security-advisories/)
-- [Circle STARKs](https://eprint.iacr.org/2024/278) verifier on [OP_CAT-enabled Bitcoin Signet](https://x.com/StarkWareLtd/status/1813619696538939455)
+- [Circle STARKs](https://eprint.iacr.org/2024/278) verifier on [OP_CAT-enabled Bitcoin Signet](https://x.com/StarkWareLtd/status/1813929304209723700)
