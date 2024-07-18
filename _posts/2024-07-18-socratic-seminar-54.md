@@ -18,7 +18,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/298761006/
 # Topics
 
 - [Analysis by supertestnet](https://stacker.news/items/593226) [of weird tx by 0XB10C](https://mempool.space/tx/b10c0000004da5a9d1d9b4ae32e09f0b3e62d21a5cce5428d4ad714fb444eb5d)
-- [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
+- [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7) and [Brollups v2](https://brqgoo.medium.com/introducing-brollup-v2-now-without-the-trusted-setup-fce9c0098177)
 - [RegreSSHion](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 - [Phoenix Supports BOLT12](https://x.com/phoenixwallet/status/1808547081214439494?s=46)
 - [Swapping out guardian's DNS in Fedimint](https://github.com/fedimint/fedimint/issues/5482)
