@@ -18,12 +18,15 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379217
 # Topics
 
 - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/28553)
+- [Taproot Assets!](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
 - Another Super invention: [StatechainJS](https://github.com/supertestnet/statechainjs) ([demo](https://www.youtube.com/watch?v=24pNIs6M7qo))
 - [Statistics on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052) ([optech post](https://bitcoinops.org/en/newsletters/2024/08/09/#statistics-on-compact-block-reconstruction))
 - [Great Script Restoration Update](https://primal.net/e/note1vwf4lxff22ps40k2yv4p5jrg5wncwsakxnwwcecmmg5gs8nv635qvg6v39)
 - [Verify SNARK proof with BitVMX](https://x.com/bitvmx/status/1816123923106259394)
 - [TabConf topic submissions](https://github.com/TABConf/6.tabconf.com/issues)
 - [FE'd up covenants](https://rubin.io/public/pdfs/fedcov.pdf)
+- [Rust bitcoin summit](https://hackmd.io/@notmandatory/r1tcjErKR)
+- [BIP 353](https://satsto.me/)
 - [Dark Skippy](https://x.com/utxoclub/status/1820520960476561825)
   - [mitigations](https://x.com/nunchuk_io/status/1820710359780704557)
 - [Engineering a backdoored bitcoin wallet](https://x.com/wootsecurity/status/1823085045399363882) ([paper](https://www.usenix.org/conference/woot24/presentation/scott))
@@ -36,5 +39,4 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379217
 - [Testnet4](https://mempool.space/testnet4)
   - [PR](https://github.com/bitcoin/bitcoin/pull/29775)
   - [New attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062)
-- [BIP 353](https://satsto.me/)
 - [Bitcoin Cash centralization](https://x.com/ParkerMerritt/status/1808909755491999857)
