@@ -31,7 +31,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379217
   - [mitigations](https://x.com/nunchuk_io/status/1820710359780704557)
 - [Engineering a backdoored bitcoin wallet](https://x.com/wootsecurity/status/1823085045399363882) ([paper](https://www.usenix.org/conference/woot24/presentation/scott))
 - [Mutiny Shutting down :(](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
-- [BitVM v2 bridge](https://bitvm.org/bitvm_bridge.pdf)
+- [BitVM v2 bridge](https://bitvm.org/bitvm_bridge.pdf) [TLDR](https://twitter.com/alexeiZamyatin/status/1824034904516051335)
 - [GSR update](https://primal.net/e/note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305)
 - Disclosed Bitcoin Core vulnerabilities
   - [Addr message spam](https://bitcoincore.org/en/2024/07/31/disclose-addrman-int-overflow/)
