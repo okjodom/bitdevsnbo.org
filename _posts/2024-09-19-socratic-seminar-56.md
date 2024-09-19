@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379218/
 - [Efficient tx grinding for OP_CAT covenants](https://delvingbitcoin.org/t/efficient-multi-input-transaction-grinding-for-op-cat-based-bitcoin-covenants/1080)
 - [$1M bounty for OP_CAT arguments](https://groups.google.com/g/bitcoindev/c/awBtvpXKBcw)
 - [Bitcoin Puzzle 66 solved](https://news.ycombinator.com/item?id=41547395)
-- [Layer2 Review by Peter Todd](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+- [Layer2 Review by Peter Todd](https://petertodd.org/2024/covenant-dependent-layer-2-review) [The Fix](https://github.com/bitcoin/bitcoin/pull/30647)
 - [Testnet4 consensus failure](https://github.com/bitcoin/bitcoin/issues/30786)
 - [10101 shutting down](https://10101.finance/blog/10101-is-shutting-down/)
+- [Lava DLC loans](https://github.com/lava-xyz/loans-paper/blob/960b91af83513f6a17d87904457e7a9e786b21e0/loans_v2.pdf)
