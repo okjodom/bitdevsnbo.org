@@ -22,6 +22,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717248
 - DATUM: [Setup](https://ocean.xyz/docs/datum-setup) - [Announcement](https://bitcoinmagazine.com/technical/aaron-oceans-datum-is-tackling-bitcoins-most-pressing-problem) - [Docs](https://ocean.xyz/docs/datum)
 - [Coinbase adds S2TR](https://x.com/coinbaseassets/status/1843712761391399318?s=46&t=fmMSkrK7pqpQM0KQQmMMzg)
 - [MuSig2 Merged into libsecp256k1](https://x.com/n1ckler/status/1843311745860849940)
+- [Broadcast Pools](https://github.com/bitcoin/bitcoin/issues/30471)
 - [CVE-2024-35202: blocktxn node crash](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
 - [btcd FindAndDelete consensus failure](https://github.com/btcsuite/btcd/security/advisories/GHSA-27vh-h6mc-q6g8)
 - [2140.dev](https://2140.dev/)
@@ -32,3 +33,5 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717248
 - [Slow block propagation attack](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 - [Shielded CSV](https://mailing-list.bitcoindevs.xyz/bitcoindev/b0afc5f2-4dcc-469d-b952-03eeac6e7d1b@gmail.com/)
 - [Zero Knowledge UTXO set inclusion proof](https://delvingbitcoin.org/t/proving-utxo-set-inclusion-in-zero-knowledge/1142)
+- [LN Summit 2024](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
+- [Group Channel Opens](https://lightningnetwork.plus/posts/594) and [how they work](https://lightningnetwork.plus/posts/456)
