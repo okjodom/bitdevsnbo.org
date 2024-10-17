@@ -26,7 +26,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717248
 - [CVE-2024-35202: blocktxn node crash](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
 - [Slow block propagation attack](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 - [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
-- [btcd FindAndDelete consensus failure](https://github.com/btcsuite/btcd/security/advisories/GHSA-27vh-h6mc-q6g8) and [explanation](https://bitcoinops.org/en/newsletters/2024/01/24/#disclosure-of-fixed-consensus-failure-in-btcd)
+- [btcd FindAndDelete consensus failure](https://github.com/btcsuite/btcd/security/advisories/GHSA-27vh-h6mc-q6g8)
 - [2140.dev](https://2140.dev/)
 - Bitcoin Core v28
   - [RPC breaking changes](https://github.com/bitcoin/bitcoin/issues/31039)
