@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717248
 - [btcd FindAndDelete consensus failure](https://github.com/btcsuite/btcd/security/advisories/GHSA-27vh-h6mc-q6g8) and [explanation](https://bitcoinops.org/en/newsletters/2024/10/11/#cve-2024-38365-btcd-consensus-failure)
 - [2140.dev](https://2140.dev/)
 - Bitcoin Core v28 - [Release Notes](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-28.0.md)
+  - [TX v3](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
   - [P2A address](https://mempool.space/address/bc1pfeessrawgf)
   - [RPC breaking changes](https://github.com/bitcoin/bitcoin/issues/31039)
   - [Wallet Guide](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
