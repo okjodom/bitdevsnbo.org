@@ -28,7 +28,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717248
 - [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
 - [btcd FindAndDelete consensus failure](https://github.com/btcsuite/btcd/security/advisories/GHSA-27vh-h6mc-q6g8) and [explanation](https://bitcoinops.org/en/newsletters/2024/10/11/#cve-2024-38365-btcd-consensus-failure)
 - [2140.dev](https://2140.dev/)
-- Bitcoin Core v28
+- Bitcoin Core v28 - [Release Notes](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-28.0.md)
   - [RPC breaking changes](https://github.com/bitcoin/bitcoin/issues/31039)
   - [Wallet Guide](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 - [Hybrid Jamming Mitigation](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147)
