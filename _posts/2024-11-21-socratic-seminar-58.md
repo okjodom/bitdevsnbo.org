@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717250/?event
 - [Bitcoin Act 2024](https://x.com/TFTC21/status/1859636488281186736)
 - [lclhost](https://lclhost.org/)
 - [Ephermal dust in core](https://github.com/bitcoin/bitcoin/pull/30239)
+- [0 fee lightning tx](https://x.com/realtbast/status/1834213774674247987)
 - [Censorship in lightning](https://x.com/callebtc/status/1856679659523490046) - [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.12)
 - [Namecheap processes 1.1m transactions with BTCPay](https://blog.btcpayserver.org/case-study-namecheap/)
 - [Bitcoin Core Vuln](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
