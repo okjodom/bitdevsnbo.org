@@ -22,6 +22,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717250/?event
 - [lclhost](https://lclhost.org/)
 - [Ephermal dust in core](https://github.com/bitcoin/bitcoin/pull/30239)
 - [Censorship in lightning](https://x.com/callebtc/status/1856679659523490046) - [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.12)
+- [Bitcoin Core Vuln](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
 - [Bitcoin Consensus Analysis Project (BCAP)](https://x.com/moneyball/status/1854585339119341796)
 - [Collider script](https://x.com/avihu28/status/1854570598439014807)
 - [Post Quantum Sigs with GSR](https://x.com/n1ckler/status/1854552545084977320) - [Delving Post](https://delvingbitcoin.org/t/winternitz-one-time-signatures-contrasting-between-lisp-and-script/1255)
