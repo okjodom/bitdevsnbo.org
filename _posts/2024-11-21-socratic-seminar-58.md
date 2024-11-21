@@ -25,7 +25,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717250/?event
 - [Namecheap processes 1.1m transactions with BTCPay](https://blog.btcpayserver.org/case-study-namecheap/)
 - [Bitcoin Core Vuln](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
 - [Bitcoin Consensus Analysis Project (BCAP)](https://x.com/moneyball/status/1854585339119341796)
-- [Collider script](https://x.com/avihu28/status/1854570598439014807)
+- [Collider script](https://eprint.iacr.org/2024/1802.pdf)
 - [Post Quantum Sigs with GSR](https://x.com/n1ckler/status/1854552545084977320) - [Delving Post](https://delvingbitcoin.org/t/winternitz-one-time-signatures-contrasting-between-lisp-and-script/1255)
 - [DLC dev kit](https://bennyb.dev/blog/dlcdevkit)
 - [Free money](https://x.com/sanket1729/status/1851824134680170792)
