@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 60"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/303476169/
+meetup: https://www.meetup.com/austin-bitcoin-developers/events/303510219
 ---
 
 # Announcements
