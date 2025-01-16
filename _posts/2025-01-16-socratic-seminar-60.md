@@ -21,6 +21,8 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/303510219
 - [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
 - [Spam filters don't work](https://x.com/oomahq/status/1875339328127431016)
 - [Contract-level Relative Timelocks](https://delvingbitcoin.org/t/contract-level-relative-timelocks-or-lets-talk-about-ancestry-proofs-and-singletons/1353)
+- [Stupot Coinpool PoC](https://x.com/stutxo/status/1873384602552738236)
+- [Bull Bitcoin does Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - Supertestnet did some more stuff
   - [Tornado Factory](https://github.com/supertestnet/tornado_factory)
   - [Prediction market on bitcoin](https://gist.github.com/supertestnet/d4d9a8dc4c975dc36eec0a8816d1f99f)
