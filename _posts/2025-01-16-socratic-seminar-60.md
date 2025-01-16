@@ -19,6 +19,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/303510219
 # Topics
 
 - [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
+- [Spam filters don't work](https://x.com/oomahq/status/1875339328127431016)
 - [Contract-level Relative Timelocks](https://delvingbitcoin.org/t/contract-level-relative-timelocks-or-lets-talk-about-ancestry-proofs-and-singletons/1353)
 - Supertestnet did some more stuff
   - [Tornado Factory](https://github.com/supertestnet/tornado_factory)
