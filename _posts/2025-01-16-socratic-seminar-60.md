@@ -26,7 +26,10 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/303510219
 - Supertestnet did some more stuff
   - [Tornado Factory](https://github.com/supertestnet/tornado_factory)
   - [Prediction market on bitcoin](https://gist.github.com/supertestnet/d4d9a8dc4c975dc36eec0a8816d1f99f)
-- [OP_TXHASH and OP_CHECKTXHASHVERIFY](https://github.com/bitcoin/bips/pull/1500)
+- BIP Updates:
+  - [BIP348: OP_CHECKSIGFROMSTACK merged](https://github.com/bitcoin/bips/pull/1535)
+  - [BIP349: OP_INTERNALKEY merged](https://github.com/bitcoin/bips/blob/master/bip-0349.md)
+  - [OP_TXHASH and OP_CHECKTXHASHVERIFY updates](https://github.com/bitcoin/bips/pull/1500)
 - [Open Source at Unchained](https://unchained.com/blog/unchained-2024-open-source/)
 - [ChillDKG BIP Update](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ/m/Y2VhaMCrCAAJ)
 - [De-anonymization attacks on centralized coinjoins](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ?pli=1)
