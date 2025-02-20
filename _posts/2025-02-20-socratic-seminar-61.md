@@ -38,5 +38,6 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
 - [Zk LN Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
 - [Cluster mempool research](https://bitcoinops.org/en/newsletters/2025/02/07/#discovery-of-previous-research-for-finding-optimal-cluster-linearization)
 - [Erlay status update](https://delvingbitcoin.org/t/erlay-overview-and-current-approach/1415)
+- [Improved orphan handling](https://github.com/bitcoin/bitcoin/pull/31397)
 - [Tx v3 in lightning research](https://delvingbitcoin.org/t/which-ephemeral-anchor-script-should-lightning-use/1412)
 - [Great consensus cleanup update](https://mailing-list.bitcoindevs.xyz/bitcoindev/jiyMlvTX8BnG71f75SqChQZxyhZDQ65kldcugeIDJVJsvK4hadCO3GT46xFc7_cUlWdmOCG0B_WIz0HAO5ZugqYTuX5qxnNLRBn3MopuATI=@protonmail.com/)
