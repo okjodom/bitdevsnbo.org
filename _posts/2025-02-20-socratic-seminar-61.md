@@ -10,6 +10,7 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- [Final Programming Bitcoin workshop](https://x.com/jimmysong/status/1891989046936649915)
 - [Bitcoin takeover 2025](https://bitcointakeover.org/)
 - [btc++ SXSW Turbo Hackathon](https://ykdl62lcpgz.typeform.com/turbohack)
 - [bitcoin++ atx25 passes available](https://btcplusplus.dev/conf/atx25)
