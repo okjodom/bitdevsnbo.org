@@ -1,0 +1,32 @@
+---
+layout: post
+type: socratic
+title: "Socratic 61"
+meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
+---
+
+# Announcements
+
+- Respect people's privacy
+- Interaction and asking questions are encouraged
+- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- [Bitcoin takeover 2025](https://bitcointakeover.org/)
+- [btc++ SXSW Turbo Hackathon](https://ykdl62lcpgz.typeform.com/turbohack)
+- [bitcoin++ atx25 passes available](https://btcplusplus.dev/conf/atx25)
+- [Full slate of bitcoin++ 2025 events](https://btcpp.dev/)
+
+# Semi-Regular Installment of Bitcoin Trivia!
+
+- TBD
+
+# Topics
+
+- [Replit agents buying domains with bitcoin](https://x.com/MaxAWebster/status/1886624932957970502)
+- [How coinpools improve bitcoin](https://njump.me/naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr)
+- [ldk pathfinding](https://lightningdevkit.org/blog/ldk-pathfinding/)
+- [Utxoracle](https://x.com/SteveSimple/status/1889325264808677668)
+- [Tether on bitcoin](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
+- [PSBTv2 Usage](https://bitcoin.stackexchange.com/questions/125384/who-uses-or-wants-to-use-psbtv2-bip370), [Optech](https://bitcoinops.org/en/newsletters/2025/01/24/#psbtv2-integration-testing)
+- [Compact block reconstruction stat update](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/5)
+  - [Track and use all potential peers for orphan resolution](bitcoin/bitcoin#31397)
+- [Fake channels and client-side validating lightning](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
