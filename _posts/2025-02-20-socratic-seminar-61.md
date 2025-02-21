@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
 - [ldk pathfinding](https://lightningdevkit.org/blog/ldk-pathfinding/)
 - [Utxoracle](https://x.com/SteveSimple/status/1889325264808677668)
 - [Tether on bitcoin](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
+- [All anchor output to fees tx](https://mempool.space/tx/ad1507f186ccdd448cc58a5ed68367249de6ad55d7f4b70bb3fcc5c88a85c626?mode=details)
 - [PSBTv2 Usage](https://bitcoin.stackexchange.com/questions/125384/who-uses-or-wants-to-use-psbtv2-bip370), [Optech](https://bitcoinops.org/en/newsletters/2025/01/24/#psbtv2-integration-testing)
 - [Compact block reconstruction stat update](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/5)
   - [Track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
