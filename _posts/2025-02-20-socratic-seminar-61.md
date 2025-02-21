@@ -33,6 +33,7 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
   - [Track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
 - [Fake channels and client-side validating lightning](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
 - [Breez Nodeless Sdk](https://blog.liquid.net/breez-releases-nodeless-sdk-implementation-powered-by-liquid/)
+- [Lnd vuln??](https://x.com/roasbeef/status/1892278724986339547)
 - [LDK Async payments](https://github.com/lightningdevkit/rust-lightning/pull/3440)
 - [LDK Vuln - HTLC force close griefing](https://delvingbitcoin.org/t/disclosure-ldk-duplicate-htlc-force-close-griefing/1410)
 - [LDK Vuln - liquidity griefing](https://delvingbitcoin.org/t/disclosure-ldk-invalid-claims-liquidity-griefing/1400)
